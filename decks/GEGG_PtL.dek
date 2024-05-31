@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="210">Myrmidons</name><set>4TH</set></card>
+		<card><name id="013">Rand the Bowyer</name><set>PO</set></card>
+		<card><name id="129">The Barbarian&apos;s Revenge!</name><set>4TH</set></card>
+		<card><name id="230">Athasian Sloth</name><set>4TH</set></card>
+		<card><name id="081">Erital Kaan-Ipzirel</name><set>AR</set></card>
+		<card><name id="492">Time of Troubles</name><set>4TH</set></card>
+		<card><name id="007">Cromlin</name><set>NS</set></card>
+		<card><name id="020">Duchy of Tenh</name><set>4TH</set></card>
+		<card><name id="439">The Starving Artisit</name><set>1STCH</set></card>
+		<card><name id="167">Iuz the Evil</name><set>3RD</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="280">Amarill</name><set>4TH</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="186">Winged Boots</name><set>4TH</set></card>
+		<card><name id="413">Map of Life</name><set>1STCH</set></card>
+		<card><name id="135">The Scarlet Brotherhood</name><set>3RD</set></card>
+		<card><name id="410">The Labyrinth Map of Shuuc</name><set>1STCH</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="095">Ochimo</name><set>FR</set></card>
+		<card><name id="221">Assassins</name><set>4TH</set></card>
+		<card><name id="050">Marco Volo</name><set>3RD</set></card>
+		<card><name id="012">The Vilhon Reach</name><set>4TH</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="134">Tarrasque</name><set>4TH</set></card>
+		<card><name id="123">Siege!</name><set>4TH</set></card>
+		<card><name id="025">Kelsar Redbelt</name><set>PO</set></card>
+		<card><name id="005">Avanil</name><set>BR</set></card>
+		<card><name id="064">Volcanic Eruption</name><set>RR</set></card>
+		<card><name id="257">Hettman Tsurin</name><set>4TH</set></card>
+		<card><name id="038">Jamlin</name><set>NS</set></card>
+		<card><name id="188">Dark Haven</name><set>4TH</set></card>
+		<card><name id="017">Amulet of Spell Protection</name><set>ARSP</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="034">The Forest Ridge</name><set>4TH</set></card>
+		<card><name id="010">Playing to Lose</name><set>DRSP</set></card>
+		<card><name id="171">Rings of All Seeing</name><set>4TH</set></card>
+		<card><name id="020">Seluna Darkenstar</name><set>PO</set></card>
+		<card><name id="017">The Builder</name><set>DUSP</set></card>
+		<card><name id="005">Barab&apos;s Goblet of Dissolution</name><set>ARSP</set></card>
+		<card><name id="504">Sea of Dust</name><set>4TH</set></card>
+		<card><name id="083">Werewolf</name><set>FR</set></card>
+		<card><name id="005">Falkovnia</name><set>NS</set></card>
+		<card><name id="093">Dragonbait</name><set>FR</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="031">Border Garrison</name><set>DU</set></card>
+		<card><name id="017">Bilago Lumen</name><set>PO</set></card>
+		<card><name id="284">Nenioc</name><set>4TH</set></card>
+		<card><name id="023">Lyr of the Mists</name><set>PO</set></card>
+		<card><name id="452">Codex of the Infinite Planes</name><set>4TH</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>DL</set></card>
+		<card><name id="092">Cyric</name><set>FR</set></card>
+		<card><name id="488">Iuz, Avatar of Evil</name><set>4TH</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="022">Song of the Dragonlance</name><set>DU</set></card>
+	</superzone>
+</deck>

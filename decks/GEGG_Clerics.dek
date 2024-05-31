@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="186">Winged Boots</name><set>4TH</set></card>
+		<card><name id="016">Halcyon</name><set>1STSP</set></card>
+		<card><name id="003">The Spiderfell</name><set>BR</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="080">Mishakal&apos;s Insistence</name><set>DL</set></card>
+		<card><name id="402">Creeping Doom</name><set>4TH</set></card>
+		<card><name id="099">Divine Assistance</name><set>DU</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="358">Dispel Magic</name><set>3RD</set></card>
+		<card><name id="064">The Unnamed, Avatar of Gruumsh</name><set>TU</set></card>
+		<card><name id="056">Mindkiller</name><set>TU</set></card>
+		<card><name id="438">Starshine</name><set>1STCH</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="034">Resurrection</name><set>FR</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="038">No Funny Business</name><set>AR</set></card>
+		<card><name id="048">Intercession</name><set>RR</set></card>
+		<card><name id="354">Ting Ling</name><set>4TH</set></card>
+		<card><name id="018">Takhisis&apos;s Helmet of Power</name><set>DLSP</set></card>
+		<card><name id="042">Lady of Fate, Avatar of Istus</name><set>PO</set></card>
+		<card><name id="189">Spellbook</name><set>4TH</set></card>
+		<card><name id="399">Ancient Curse</name><set>3RD</set></card>
+		<card><name id="034">The Forgotten Ruins</name><set>DU</set></card>
+		<card><name id="083">The Rahasia</name><set>RR</set></card>
+		<card><name id="221">Assassins</name><set>4TH</set></card>
+		<card><name id="233">Mararuder</name><set>4TH</set></card>
+		<card><name id="288">Klik-Ka&apos;Cha</name><set>4TH</set></card>
+		<card><name id="439">The Starving Artisit</name><set>1STCH</set></card>
+		<card><name id="021">Boots of Fharlanghn</name><set>RRSP</set></card>
+		<card><name id="286">Shayira</name><set>4TH</set></card>
+		<card><name id="002">Ruins of Zhentil Keep</name><set>4TH</set></card>
+		<card><name id="044">The Mistmoor</name><set>4TH</set></card>
+		<card><name id="280">Amarill</name><set>4TH</set></card>
+		<card><name id="283">Sysania</name><set>4TH</set></card>
+		<card><name id="095">Baldar Dwellardon</name><set>TU</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="054">Herald of Mei Lung</name><set>NS</set></card>
+		<card><name id="189">Arch-Druid</name><set>3RD</set></card>
+		<card><name id="043">The Sphinx</name><set>4TH</set></card>
+		<card><name id="077">Star Gem of Martek: Clear Crystal</name><set>RR</set></card>
+		<card><name id="268">Bagual</name><set>3RD</set></card>
+		<card><name id="009">Mount Deismaar</name><set>DR</set></card>
+		<card><name id="081">Erital Kaan-Ipzirel</name><set>AR</set></card>
+		<card><name id="100">The Celestial Jewel of Sarimie</name><set>4TH</set></card>
+		<card><name id="010">Delsenora</name><set>1STSP</set></card>
+		<card><name id="282">Adon</name><set>4TH</set></card>
+		<card><name id="045">Heal</name><set>RL</set></card>
+		<card><name id="011">Bag of Beans</name><set>NSSP</set></card>
+		<card><name id="466">Throne of the Pharaohs</name><set>4TH</set></card>
+		<card><name id="052">Elemental Swarm</name><set>TU</set></card>
+		<card><name id="032">Ur Draxa</name><set>4TH</set></card>
+		<card><name id="054">Shining Lands</name><set>4TH</set></card>
+		<card><name id="406">Ward of Sleep</name><set>4TH</set></card>
+		<card><name id="452">Codex of the Infinite Planes</name><set>4TH</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="001">Mausoleum of the Zombie Master</name><set>DU</set></card>
+	</superzone>
+</deck>

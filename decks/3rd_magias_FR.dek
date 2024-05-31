@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="062">Sword of Cymrych Hugh</name><set>FR</set></card>
+		<card><name id="280">Amarill</name><set>4TH</set></card>
+		<card><name id="070">Cleric of Mask</name><set>3RD</set></card>
+		<card><name id="282">Adon</name><set>4TH</set></card>
+		<card><name id="053">Adventurers!</name><set>3RD</set></card>
+		<card><name id="052">Gnomes of Samek</name><set>3RD</set></card>
+		<card><name id="051">The Harpers</name><set>3RD</set></card>
+		<card><name id="089">Helm</name><set>FR</set></card>
+		<card><name id="253">Drizzt Do&apos;Urden</name><set>4TH</set></card>
+		<card><name id="033">Mulmaster</name><set>3RD</set></card>
+		<card><name id="092">Cyric</name><set>FR</set></card>
+		<card><name id="263">Dracolich</name><set>4TH</set></card>
+		<card><name id="320">Eye Tyrant</name><set>4TH</set></card>
+		<card><name id="034">Rauglothgor</name><set>DR</set></card>
+		<card><name id="023">Damara</name><set>3RD</set></card>
+		<card><name id="026">Daggerdale</name><set>3RD</set></card>
+		<card><name id="029">Evermeet</name><set>3RD</set></card>
+		<card><name id="028">Haunted Hall of Eveningstar</name><set>3RD</set></card>
+		<card><name id="002">Menzoberranzan</name><set>3RD</set></card>
+		<card><name id="004">Shadowdale</name><set>3RD</set></card>
+		<card><name id="030">The Trollmoors</name><set>3RD</set></card>
+		<card><name id="004">Myth Drannor</name><set>4TH</set></card>
+		<card><name id="001">Rauglothgor&apos;s Lair</name><set>DR</set></card>
+		<card><name id="017">Raurin</name><set>FR</set></card>
+		<card><name id="004">Dragonspine Mountains</name><set>DR</set></card>
+		<card><name id="035">The Hidden Village</name><set>DU</set></card>
+		<card><name id="434">Bengoukee the Witch Doctor</name><set>1STCH</set></card>
+		<card><name id="046">Midnight, Goddess of Magic</name><set>3RD</set></card>
+		<card><name id="271">Elminster the Mage</name><set>4TH</set></card>
+		<card><name id="413">Map of Life</name><set>1STCH</set></card>
+		<card><name id="090">Airship</name><set>3RD</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="100">Good Fortune</name><set>3RD</set></card>
+		<card><name id="319">The Caravan</name><set>3RD</set></card>
+		<card><name id="312">Treasure</name><set>3RD</set></card>
+		<card><name id="134">Tarrasque</name><set>4TH</set></card>
+		<card><name id="004">Curse of Azure Bonds</name><set>FR</set></card>
+		<card><name id="078">Cat Burglar</name><set>NS</set></card>
+		<card><name id="219">Ataque pelos Flancos</name><set>PT</set></card>
+		<card><name id="077">Unicorn</name><set>BR</set></card>
+		<card><name id="084">Firedrake</name><set>DR</set></card>
+		<card><name id="210">Myrmidons</name><set>4TH</set></card>
+		<card><name id="402">Creeping Doom</name><set>4TH</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="057">Summon Insects</name><set>BR</set></card>
+		<card><name id="081">Divine Intervention</name><set>DL</set></card>
+		<card><name id="092">Melt Stone</name><set>PO</set></card>
+		<card><name id="393">Disintegrate</name><set>3RD</set></card>
+		<card><name id="348">Fear</name><set>3RD</set></card>
+		<card><name id="392">Death Spell</name><set>3RD</set></card>
+		<card><name id="060">Prismatic Spray</name><set>AR</set></card>
+		<card><name id="406">Phorbes&apos;s Scrolls</name><set>1STCH</set></card>
+		<card><name id="362">Shapechange</name><set>4TH</set></card>
+		<card><name id="055">Meteor Swarm</name><set>DR</set></card>
+	</superzone>
+</deck>

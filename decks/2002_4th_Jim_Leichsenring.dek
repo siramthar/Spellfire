@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="124">Temple of Elemental Evil</name><set>3RD</set></card>
+		<card><name id="023">Spindrift Isles</name><set>4TH</set></card>
+		<card><name id="001">Castle Arborgate</name><set>INBR</set></card>
+		<card><name id="504">Sea of Dust</name><set>4TH</set></card>
+		<card><name id="024">Stonefist Hold</name><set>4TH</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="135">The Scarlet Brotherhood</name><set>3RD</set></card>
+		<card><name id="031">Border Garrison</name><set>DU</set></card>
+		<card><name id="090">Fortification: Breastwork</name><set>4TH</set></card>
+		<card><name id="508">Ethereal Champion</name><set>4TH</set></card>
+		<card><name id="019">Slap!</name><set>INBR</set></card>
+		<card><name id="257">Hettman Tsurin</name><set>4TH</set></card>
+		<card><name id="001">T&apos;chaar, Dragon of Flame</name><set>DRSP</set></card>
+		<card><name id="089">Helm</name><set>FR</set></card>
+		<card><name id="277">Sadira</name><set>4TH</set></card>
+		<card><name id="024">Elyk the Bard</name><set>DUSP</set></card>
+		<card><name id="016">Gib Kcir</name><set>RRSP</set></card>
+		<card><name id="023">Gib Aklem</name><set>NSSP</set></card>
+		<card><name id="422">Gatekeeper</name><set>1STCH</set></card>
+		<card><name id="023">Lyr of the Mists</name><set>PO</set></card>
+		<card><name id="014">Necba the Wrathmaker</name><set>DUSP</set></card>
+		<card><name id="058">Living Wall</name><set>PO</set></card>
+		<card><name id="167">Iuz the Evil</name><set>3RD</set></card>
+		<card><name id="020">Gib Reltub</name><set>NSSP</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="143">Land Ho!</name><set>4TH</set></card>
+		<card><name id="013">The Gathering</name><set>INBR</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="002">Cold Cup of Calamity</name><set>FRSP</set></card>
+		<card><name id="150">Siege!</name><set>3RD</set></card>
+		<card><name id="003">Caer Allison</name><set>FR</set></card>
+		<card><name id="413">Map of Life</name><set>1STCH</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="140">Hurricane!</name><set>4TH</set></card>
+		<card><name id="490">Nobody Wins!</name><set>4TH</set></card>
+		<card><name id="171">Rings of All Seeing</name><set>4TH</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="017">Amulet of Spell Protection</name><set>ARSP</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="466">Throne of the Pharaohs</name><set>4TH</set></card>
+		<card><name id="437">Estate Transference</name><set>1STCH</set></card>
+		<card><name id="384">Wish</name><set>4TH</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="210">Myrmidons</name><set>4TH</set></card>
+		<card><name id="010">Enter Darkness Together</name><set>DUSP</set></card>
+		<card><name id="086">Hijacking</name><set>DU</set></card>
+		<card><name id="005">Underhanded Deal</name><set>MIBR</set></card>
+		<card><name id="020">I Know What You are Thinking!!!</name><set>INBR</set></card>
+		<card><name id="073">Psionic Disintegration</name><set>DU</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="006">Labyrinth of Castle Greyhawk</name><set>DU</set></card>
+	</superzone>
+</deck>

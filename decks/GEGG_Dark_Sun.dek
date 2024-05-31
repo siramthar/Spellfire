@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="032">Ur Draxa</name><set>4TH</set></card>
+		<card><name id="013">Rand the Bowyer</name><set>PO</set></card>
+		<card><name id="027">Urik</name><set>4TH</set></card>
+		<card><name id="015">Rafe Racker</name><set>PO</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="001">Thrice Hearty Cup of Balder the Red</name><set>FRSP</set></card>
+		<card><name id="075">Drain Will</name><set>DU</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="074">Control Wind</name><set>PO</set></card>
+		<card><name id="034">The Forest Ridge</name><set>4TH</set></card>
+		<card><name id="413">Map of Life</name><set>1STCH</set></card>
+		<card><name id="070">Molecular Rearrangement</name><set>PO</set></card>
+		<card><name id="025">Kelsar Redbelt</name><set>PO</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="019">Phridge</name><set>PO</set></card>
+		<card><name id="021">Kerm of Tyr</name><set>PO</set></card>
+		<card><name id="270">Korgunard the Avangion</name><set>4TH</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="020">Seluna Darkenstar</name><set>PO</set></card>
+		<card><name id="073">Psionic Disintegration</name><set>DU</set></card>
+		<card><name id="080">Shadair Mesker</name><set>PO</set></card>
+		<card><name id="031">New Giustenal</name><set>4TH</set></card>
+		<card><name id="268">Borys the Dragon</name><set>4TH</set></card>
+		<card><name id="030">City States</name><set>RL</set></card>
+		<card><name id="097">Silver Spring</name><set>4TH</set></card>
+		<card><name id="298">Stef&apos;fa Naf&apos;ski</name><set>3RD</set></card>
+		<card><name id="236">Loup-Garou</name><set>4TH</set></card>
+		<card><name id="005">Sword of the High King</name><set>PO</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="036">Lake Island</name><set>4TH</set></card>
+		<card><name id="123">Siege!</name><set>4TH</set></card>
+		<card><name id="094">Magnify</name><set>PO</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="122">Labor of Legend</name><set>4TH</set></card>
+		<card><name id="027">Rod of 7 Parts, Part 7</name><set>AR</set></card>
+		<card><name id="056">Vorpal Blade</name><set>FR</set></card>
+		<card><name id="186">Winged Boots</name><set>4TH</set></card>
+		<card><name id="288">Klik-Ka&apos;Cha</name><set>4TH</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="028">Tyr</name><set>4TH</set></card>
+		<card><name id="301">Tithian</name><set>3RD</set></card>
+		<card><name id="007">Cromlin</name><set>NS</set></card>
+		<card><name id="033">Shault</name><set>4TH</set></card>
+		<card><name id="067">Combat Mind</name><set>DR</set></card>
+		<card><name id="003">Caer Allison</name><set>FR</set></card>
+		<card><name id="261">Agis</name><set>3RD</set></card>
+		<card><name id="034">The Forgotten Ruins</name><set>DU</set></card>
+		<card><name id="030">Euripis</name><set>4TH</set></card>
+		<card><name id="060">Earth Elemental</name><set>PO</set></card>
+		<card><name id="277">Sadira</name><set>4TH</set></card>
+		<card><name id="076">Repugnance</name><set>PO</set></card>
+		<card><name id="094">Arkhold</name><set>4TH</set></card>
+		<card><name id="288">Spirit of the land</name><set>3RD</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="003">Lair of Dregoth, the Undead Dragon-King</name><set>DU</set></card>
+	</superzone>
+</deck>

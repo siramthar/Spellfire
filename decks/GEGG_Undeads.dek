@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="032">The Ruins of Iolonia</name><set>DU</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="004">Lost Treasure</name><set>RRSP</set></card>
+		<card><name id="345">The Magian</name><set>4TH</set></card>
+		<card><name id="006">The ultimate triumvirate</name><set>TUSP</set></card>
+		<card><name id="041">Touch of Decay</name><set>BR</set></card>
+		<card><name id="033">Ratik Ubel</name><set>NS</set></card>
+		<card><name id="393">Disintegrate</name><set>3RD</set></card>
+		<card><name id="079">Create Minion</name><set>DU</set></card>
+		<card><name id="025">Mad Scientist&apos;s Laboratory</name><set>NSSP</set></card>
+		<card><name id="081">Death Field</name><set>DU</set></card>
+		<card><name id="016">Varney the Vampire</name><set>NSSP</set></card>
+		<card><name id="015">Zombie</name><set>NSSP</set></card>
+		<card><name id="005">Avanil</name><set>BR</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="082">Con Game</name><set>DU</set></card>
+		<card><name id="291">Mikor</name><set>3RD</set></card>
+		<card><name id="081">Divine Intervention</name><set>DL</set></card>
+		<card><name id="070">Fang of the Nosferatu</name><set>RL</set></card>
+		<card><name id="020">Duchy of Tenh</name><set>4TH</set></card>
+		<card><name id="246">The Dreaded Ghost</name><set>4TH</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="027">Armor of the High King</name><set>BR</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="018">Bell of Might</name><set>FRSP</set></card>
+		<card><name id="020">Moonlight Madness</name><set>NS</set></card>
+		<card><name id="004">Curse of Azure Bonds</name><set>FR</set></card>
+		<card><name id="462">Throne of Bone</name><set>4TH</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="056">Vorpal Blade</name><set>FR</set></card>
+		<card><name id="425">The Undead Htimsen</name><set>1STCH</set></card>
+		<card><name id="007">Undead regeneration</name><set>RRSP</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="097">Level Drain</name><set>NS</set></card>
+		<card><name id="422">Gatekeeper</name><set>1STCH</set></card>
+		<card><name id="021">Gib Irod</name><set>NSSP</set></card>
+		<card><name id="038">Acererak the Eternal</name><set>RR</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="384">Wish</name><set>4TH</set></card>
+		<card><name id="356">The Lesser Mummy</name><set>4TH</set></card>
+		<card><name id="073">Negative Planar Energy</name><set>NS</set></card>
+		<card><name id="071">The Vampire</name><set>NS</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="041">Bonemaster, Avatar of Nerull</name><set>PO</set></card>
+		<card><name id="081">Ancient Dracolich</name><set>NS</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="063">Sithicus</name><set>4TH</set></card>
+		<card><name id="100">Strahd Von Zarovich</name><set>RL</set></card>
+		<card><name id="357">Bride of Malice</name><set>4TH</set></card>
+		<card><name id="015">The Demi-Lich Zyenj</name><set>TUSP</set></card>
+		<card><name id="071">Haven of the Undead</name><set>4TH</set></card>
+		<card><name id="088">Headless Horseman</name><set>RL</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="024">The Azure Tower of Onad the Fallen</name><set>DU</set></card>
+	</superzone>
+</deck>

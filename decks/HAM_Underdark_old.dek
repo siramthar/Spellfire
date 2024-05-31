@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="393">Disintegrate</name><set>3RD</set></card>
+		<card><name id="084">Gorynych</name><set>TU</set></card>
+		<card><name id="320">Eye Tyrant</name><set>4TH</set></card>
+		<card><name id="089">Myconid</name><set>TU</set></card>
+		<card><name id="097">Minions of Darkness</name><set>DU</set></card>
+		<card><name id="098">Aquilla</name><set>TU</set></card>
+		<card><name id="007">UnderToril</name><set>TU</set></card>
+		<card><name id="008">UnderOerth</name><set>TU</set></card>
+		<card><name id="201">Transformation!</name><set>3RD</set></card>
+		<card><name id="152">Ambush</name><set>4TH</set></card>
+		<card><name id="082">Corpse Dragon</name><set>TU</set></card>
+		<card><name id="018">Lurker in the Deep</name><set>TUSP</set></card>
+		<card><name id="076">Foulwing</name><set>TU</set></card>
+		<card><name id="456">Wand of Orcus</name><set>4TH</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="024">Broken Arrow</name><set>TUSP</set></card>
+		<card><name id="206">Kevin&apos;s Blade of Doom</name><set>3RD</set></card>
+		<card><name id="017">Piercer</name><set>TUSP</set></card>
+		<card><name id="319">The Caravan</name><set>3RD</set></card>
+		<card><name id="083">Earth Weird</name><set>TU</set></card>
+		<card><name id="006">The Tripolar Triumvirate</name><set>TU</set></card>
+		<card><name id="321">Roper</name><set>4TH</set></card>
+		<card><name id="012">The Minotaur Attacks!</name><set>TUSP</set></card>
+		<card><name id="188">Dark Haven</name><set>4TH</set></card>
+		<card><name id="016">The Minotaur</name><set>TUSP</set></card>
+		<card><name id="047">Hook Horror</name><set>DU</set></card>
+		<card><name id="021">The Sword and Helm of Garion</name><set>TUSP</set></card>
+		<card><name id="088">Mind Flayer</name><set>TU</set></card>
+		<card><name id="005">The Deep</name><set>TUSP</set></card>
+		<card><name id="003">UnderKrynn</name><set>TU</set></card>
+		<card><name id="069">Things That Go Bump in the Night</name><set>TU</set></card>
+		<card><name id="006">The ultimate triumvirate</name><set>TUSP</set></card>
+		<card><name id="007">The Dispossessed</name><set>TUSP</set></card>
+		<card><name id="045">Bloodstone&apos;s Spectral Steed</name><set>TU</set></card>
+		<card><name id="051">The White Weird</name><set>DU</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="370">Dispel Magic</name><set>4TH</set></card>
+		<card><name id="021">Highmaster Illithios</name><set>DUSP</set></card>
+		<card><name id="108">Labor of Legend</name><set>3RD</set></card>
+		<card><name id="002">Menzoberranzan</name><set>3RD</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="040">Shattered Glass</name><set>TU</set></card>
+		<card><name id="251">Rust Monster</name><set>4TH</set></card>
+		<card><name id="046">Troglodyte</name><set>DU</set></card>
+		<card><name id="018">Cavern of Ancient Knowledge</name><set>NS</set></card>
+		<card><name id="105">Staff of Conjuring</name><set>3RD</set></card>
+		<card><name id="008">UnderCerilia</name><set>NS</set></card>
+		<card><name id="015">The Demi-Lich Zyenj</name><set>TUSP</set></card>
+		<card><name id="100">Good Fortune</name><set>3RD</set></card>
+		<card><name id="023">Drow Assassin</name><set>TUSP</set></card>
+		<card><name id="009">UnderDread</name><set>TU</set></card>
+		<card><name id="093">Ellorelloran</name><set>TU</set></card>
+		<card><name id="001">UnderAthas</name><set>TU</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="005">Undermountain</name><set>DU</set></card>
+	</superzone>
+</deck>

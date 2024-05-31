@@ -1,0 +1,11 @@
+Spellfire	05-31-24
+plugins/Spellfire/plugininfo.txt	http://www.lackeyccg.com/Spellfire/plugininfo.txt	48836
+plugins/Spellfire/formats.txt	http://www.lackeyccg.com/Spellfire/formats.txt	19676
+plugins/Spellfire/bot.jpg	http://www.lackeyccg.com/Spellfire/bot.jpg	46329
+plugins/Spellfire/sets/carddata.txt	http://www.lackeyccg.com/Spellfire/carddata.txt	58233
+plugins/Spellfire/cardback.jpg	http://www.lackeyccg.com/Spellfire/high/cardback.jpg	-13320
+plugins/Spellfire/packs/packdefinitions1.xml	http://www.lackeyccg.com/Spellfire/packs/packdefinitions1.xml	177503
+plugins/Spellfire/packs/samplebooster.jpg	http://www.lackeyccg.com/Spellfire/packs/samplebooster.jpg	35160
+plugins/Spellfire/version.txt	http://www.lackeyccg.com/Spellfire/version.txt	35160
+CardGeneralURLs:
+http://www.lackeyccg.com/Spellfire/high/

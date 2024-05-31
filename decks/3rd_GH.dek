@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="152">Codex of the Infinite Planes</name><set>3RD</set></card>
+		<card><name id="218">Johydee&apos;s Mask</name><set>3RD</set></card>
+		<card><name id="157">Orb of Dragonkind</name><set>3RD</set></card>
+		<card><name id="283">Sysania</name><set>4TH</set></card>
+		<card><name id="081">Erital Kaan-Ipzirel</name><set>AR</set></card>
+		<card><name id="172">Hettman Tsurin</name><set>3RD</set></card>
+		<card><name id="196">Rangers of Hornwood</name><set>3RD</set></card>
+		<card><name id="060">Tergoz Tenhammer</name><set>3RD</set></card>
+		<card><name id="176">Tyrinon</name><set>3RD</set></card>
+		<card><name id="084">Fortification: Parapet</name><set>4TH</set></card>
+		<card><name id="188">Young Gold Dragon</name><set>3RD</set></card>
+		<card><name id="194">Winged Horror</name><set>3RD</set></card>
+		<card><name id="167">Iuz the Evil</name><set>3RD</set></card>
+		<card><name id="166">Lolth, the Spider Queen</name><set>3RD</set></card>
+		<card><name id="073">Zielesch, Ancient Green Dragon</name><set>AR</set></card>
+		<card><name id="139">Duchy of Tenh</name><set>3RD</set></card>
+		<card><name id="125">Greyhawk Ruins</name><set>3RD</set></card>
+		<card><name id="126">Perrenland</name><set>3RD</set></card>
+		<card><name id="124">Temple of Elemental Evil</name><set>3RD</set></card>
+		<card><name id="123">The Great Kingdom</name><set>3RD</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="135">The Scarlet Brotherhood</name><set>3RD</set></card>
+		<card><name id="025">Ull</name><set>4TH</set></card>
+		<card><name id="008">UnderOerth</name><set>TU</set></card>
+		<card><name id="030">Border Post</name><set>DU</set></card>
+		<card><name id="023">Spindrift Isles</name><set>4TH</set></card>
+		<card><name id="001">Isle of the Ape</name><set>RR</set></card>
+		<card><name id="165">Mika the Wolf-Nomad</name><set>3RD</set></card>
+		<card><name id="164">Otto</name><set>3RD</set></card>
+		<card><name id="162">Mordenkainen</name><set>3RD</set></card>
+		<card><name id="069">Winslow the Lich</name><set>NS</set></card>
+		<card><name id="395">Banishment</name><set>3RD</set></card>
+		<card><name id="059">Raze</name><set>BR</set></card>
+		<card><name id="045">Heal</name><set>RL</set></card>
+		<card><name id="096">Horrors of the Abyss</name><set>3RD</set></card>
+		<card><name id="095">Drawmij&apos;s Beneficent Polymorph</name><set>DU</set></card>
+		<card><name id="367">Wall of Force</name><set>4TH</set></card>
+		<card><name id="364">Lightning Bolt</name><set>4TH</set></card>
+		<card><name id="390">Chain Lightning</name><set>3RD</set></card>
+		<card><name id="054">Transmute Metal to Wood</name><set>BR</set></card>
+		<card><name id="068">Lightning Glyph</name><set>AR</set></card>
+		<card><name id="237">Brine Dragon</name><set>4TH</set></card>
+		<card><name id="082">Dragonne</name><set>DR</set></card>
+		<card><name id="065">Flaming Fist</name><set>FR</set></card>
+		<card><name id="047">Hook Horror</name><set>DU</set></card>
+		<card><name id="061">Myrmidons</name><set>3RD</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="137">Deflection</name><set>4TH</set></card>
+		<card><name id="038">Caravan Raiders</name><set>PO</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="183">Girdle of Storm Giant Strength</name><set>4TH</set></card>
+		<card><name id="207">Holy Avenger</name><set>4TH</set></card>
+		<card><name id="006">Dragonsbane</name><set>PO</set></card>
+	</superzone>
+</deck>

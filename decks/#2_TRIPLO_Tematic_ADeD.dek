@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="022">Brain Construct</name><set>25Y</set></card>
+		<card><name id="008">Quill Pen of the Planes</name><set>POSP</set></card>
+		<card><name id="009">The Tantelear</name><set>POSP</set></card>
+		<card><name id="012">Charm, the Crystal Dragon</name><set>DRSP</set></card>
+		<card><name id="001">D Pedro II</name><set>MITSP</set></card>
+		<card><name id="508">Ethereal Champion</name><set>4TH</set></card>
+		<card><name id="016">Gib Kcir</name><set>RRSP</set></card>
+		<card><name id="002">Pirate</name><set>CHBR</set></card>
+		<card><name id="018">Cavern of Ancient Knowledge</name><set>NS</set></card>
+		<card><name id="020">Not so Fast</name><set>CHBR</set></card>
+		<card><name id="011">Bag of Beans</name><set>NSSP</set></card>
+		<card><name id="171">Rings of All Seeing</name><set>4TH</set></card>
+		<card><name id="038">Acererak the Eternal</name><set>RR</set></card>
+		<card><name id="008">Borella, the Shadow Warrior</name><set>BRPROMO</set></card>
+		<card><name id="422">Gatekeeper</name><set>1STCH</set></card>
+		<card><name id="009">Kronos the Titan</name><set>MIBR</set></card>
+		<card><name id="425">The Undead Htimsen</name><set>1STCH</set></card>
+		<card><name id="011">Ballista Attack</name><set>MIBR</set></card>
+		<card><name id="017">Control Mind</name><set>25Y</set></card>
+		<card><name id="074">Control Wind</name><set>PO</set></card>
+		<card><name id="097">Create Object</name><set>PO</set></card>
+		<card><name id="075">Drain Will</name><set>DU</set></card>
+		<card><name id="020">I Know What You are Thinking!!!</name><set>INBR</set></card>
+		<card><name id="074">Magic Draining Field</name><set>DU</set></card>
+		<card><name id="073">Psionic Disintegration</name><set>DU</set></card>
+		<card><name id="021">Highmaster Illithios</name><set>DUSP</set></card>
+		<card><name id="103">Quilombola</name><set>MIT</set></card>
+		<card><name id="015">Sapphire the Blue Dragon</name><set>DRSP</set></card>
+		<card><name id="070">Anytown, Anywhere</name><set>4TH</set></card>
+		<card><name id="024">Den of Thieves</name><set>NSSP</set></card>
+		<card><name id="005">The Deep</name><set>TUSP</set></card>
+		<card><name id="007">The Dispossessed</name><set>TUSP</set></card>
+		<card><name id="006">The Tripolar Triumvirate</name><set>TU</set></card>
+		<card><name id="016">The Lost City</name><set>RR</set></card>
+		<card><name id="006">The ultimate triumvirate</name><set>TUSP</set></card>
+		<card><name id="005">The Underdark</name><set>TU</set></card>
+		<card><name id="168">Ghost Crystal</name><set>4TH</set></card>
+		<card><name id="007">Kinetic Armor</name><set>COBR</set></card>
+		<card><name id="500">The Master Strategist</name><set>4TH</set></card>
+		<card><name id="018">Run Away</name><set>25Y</set></card>
+		<card><name id="019">Picque Moi</name><set>CHBR</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="020">Blood Challenge!</name><set>BRSP</set></card>
+		<card><name id="013">The Gathering</name><set>INBR</set></card>
+		<card><name id="246">The Dreaded Ghost</name><set>4TH</set></card>
+		<card><name id="081">Undead Dragonrider</name><set>DR</set></card>
+		<card><name id="035">Gato Negro</name><set>MIT</set></card>
+		<card><name id="061">Myrmidons</name><set>1SP</set></card>
+		<card><name id="081">Ancient Dracolich</name><set>NS</set></card>
+		<card><name id="002">Arena of Dori the Barbaria</name><set>INBR</set></card>
+		<card><name id="083">Pororoca</name><set>MIT</set></card>
+		<card><name id="035">Sparkle, Crystal Dragon</name><set>DR</set></card>
+		<card><name id="018">Bell of Might</name><set>FRSP</set></card>
+		<card><name id="019">Slap!</name><set>INBR</set></card>
+		<card><name id="010">Enter Darkness Together</name><set>DUSP</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="024">The Kings Peace</name><set>BRPROMO</set></card>
+	</superzone>
+</deck>

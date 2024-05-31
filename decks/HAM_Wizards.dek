@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="437">Estate Transference</name><set>1STCH</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="011">Raurin</name><set>4TH</set></card>
+		<card><name id="033">Fi Lendicol</name><set>DR</set></card>
+		<card><name id="213">Intellect Devourer</name><set>4TH</set></card>
+		<card><name id="007">Cromlin</name><set>NS</set></card>
+		<card><name id="389">Re-target</name><set>4TH</set></card>
+		<card><name id="043">Limited Wish</name><set>FR</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="096">Breath Weapon III</name><set>DR</set></card>
+		<card><name id="085">Darsson Spellmaker</name><set>AR</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="046">Midnight, Goddess of Magic</name><set>3RD</set></card>
+		<card><name id="037">Hornung&apos;s Guess</name><set>TU</set></card>
+		<card><name id="452">Codex of the Infinite Planes</name><set>4TH</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="093">Ellorelloran</name><set>TU</set></card>
+		<card><name id="040">Shattered Glass</name><set>TU</set></card>
+		<card><name id="137">Deflection</name><set>4TH</set></card>
+		<card><name id="062">Dalamar&apos;s Ring of Healing</name><set>DL</set></card>
+		<card><name id="028">Bag of Holding</name><set>AR</set></card>
+		<card><name id="029">Maldraedior, Great Blue Wyrm</name><set>DR</set></card>
+		<card><name id="139">Duchy of Tenh</name><set>3RD</set></card>
+		<card><name id="079">Hornung the Anarch</name><set>AR</set></card>
+		<card><name id="370">Dispel Magic</name><set>4TH</set></card>
+		<card><name id="032">Ur Draxa</name><set>4TH</set></card>
+		<card><name id="056">Coming of the Phoenix</name><set>RR</set></card>
+		<card><name id="012">The Vilhon Reach</name><set>4TH</set></card>
+		<card><name id="006">Onad the Weasel</name><set>ARSP</set></card>
+		<card><name id="384">Wish</name><set>4TH</set></card>
+		<card><name id="044">Time Stop</name><set>FR</set></card>
+		<card><name id="499">Master the Magic</name><set>4TH</set></card>
+		<card><name id="077">Star Gem of Martek: Clear Crystal</name><set>RR</set></card>
+		<card><name id="059">Raze</name><set>BR</set></card>
+		<card><name id="053">Temporal Stasis</name><set>AR</set></card>
+		<card><name id="276">Drawmij</name><set>4TH</set></card>
+		<card><name id="100">Good Fortune</name><set>3RD</set></card>
+		<card><name id="037">Greyhawk Dragon</name><set>DR</set></card>
+		<card><name id="005">Cormyr</name><set>3RD</set></card>
+		<card><name id="031">Lareth, King of Justice</name><set>DR</set></card>
+		<card><name id="002">Menzoberranzan</name><set>3RD</set></card>
+		<card><name id="054">Herald of Mei Lung</name><set>NS</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="277">Sadira</name><set>4TH</set></card>
+		<card><name id="074">Recall</name><set>DL</set></card>
+		<card><name id="028">Pelath the Bronze Dragon</name><set>DR</set></card>
+		<card><name id="009">The Trollmoors</name><set>4TH</set></card>
+		<card><name id="086">Council Aerie</name><set>AR</set></card>
+		<card><name id="033">Mulmaster</name><set>3RD</set></card>
+		<card><name id="046">Troglodyte</name><set>DU</set></card>
+		<card><name id="393">Disintegrate</name><set>3RD</set></card>
+		<card><name id="236">Loup-Garou</name><set>4TH</set></card>
+		<card><name id="050">Cariele</name><set>4TH</set></card>
+		<card><name id="388">Prismatic Sphere</name><set>4TH</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="014">Carrock of High Magicks</name><set>DU</set></card>
+	</superzone>
+</deck>

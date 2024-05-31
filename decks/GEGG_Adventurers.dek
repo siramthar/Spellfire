@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="081">Ancient Dracolich</name><set>NS</set></card>
+		<card><name id="296">Ssilcroth</name><set>4TH</set></card>
+		<card><name id="029">Cities of the Sun</name><set>DU</set></card>
+		<card><name id="456">Wand of Orcus</name><set>4TH</set></card>
+		<card><name id="289">Photed</name><set>4TH</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="123">Siege!</name><set>4TH</set></card>
+		<card><name id="399">Ancient Curse</name><set>3RD</set></card>
+		<card><name id="028">Bag of Holding</name><set>AR</set></card>
+		<card><name id="236">Loup-Garou</name><set>4TH</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="297">Rumples</name><set>4TH</set></card>
+		<card><name id="018">Espionage!</name><set>BR</set></card>
+		<card><name id="032">Ur Draxa</name><set>4TH</set></card>
+		<card><name id="293">Larn</name><set>4TH</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="099">Thought Eater</name><set>AR</set></card>
+		<card><name id="090">Euripis</name><set>AR</set></card>
+		<card><name id="046">Tighmaevril Sword</name><set>BR</set></card>
+		<card><name id="002">Axe of the Dwarvish Lords</name><set>AR</set></card>
+		<card><name id="087">Shining Lands</name><set>AR</set></card>
+		<card><name id="015">Sri Raji</name><set>RL</set></card>
+		<card><name id="492">Time of Troubles</name><set>4TH</set></card>
+		<card><name id="010">The Coral Kingdom</name><set>4TH</set></card>
+		<card><name id="238">Flaming Fist</name><set>4TH</set></card>
+		<card><name id="094">Arkhold</name><set>4TH</set></card>
+		<card><name id="028">Tyr</name><set>4TH</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="081">Death Field</name><set>DU</set></card>
+		<card><name id="027">Three Card Monte</name><set>NS</set></card>
+		<card><name id="025">Dor Amberglow</name><set>DUSP</set></card>
+		<card><name id="079">Create Minion</name><set>DU</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="359">Fleeing Adventurers</name><set>4TH</set></card>
+		<card><name id="213">Intellect Devourer</name><set>4TH</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="027">Armor of the High King</name><set>BR</set></card>
+		<card><name id="005">Doc&apos;s Island</name><set>RR</set></card>
+		<card><name id="042">The Hapless Halfling</name><set>DU</set></card>
+		<card><name id="044">Dearlyn Ambersong</name><set>DU</set></card>
+		<card><name id="290">Sharla</name><set>4TH</set></card>
+		<card><name id="085">Alarm</name><set>NS</set></card>
+		<card><name id="041">Touch of Decay</name><set>BR</set></card>
+		<card><name id="009">Lilac Hesabon</name><set>DUSP</set></card>
+		<card><name id="031">Dori&apos;s Obsidian Steed of Wondrous Power</name><set>TU</set></card>
+		<card><name id="027">Rod of 7 Parts, Part 7</name><set>AR</set></card>
+		<card><name id="053">Adventurers!</name><set>3RD</set></card>
+		<card><name id="295">Shayla</name><set>4TH</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="165">Staff of Conjuring</name><set>4TH</set></card>
+		<card><name id="291">Migrane</name><set>4TH</set></card>
+		<card><name id="008">UnderOerth</name><set>TU</set></card>
+		<card><name id="056">Adventurers</name><set>3RD</set></card>
+		<card><name id="292">Vitralis</name><set>4TH</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="021">Might of the Blood Right</name><set>DU</set></card>
+	</superzone>
+</deck>

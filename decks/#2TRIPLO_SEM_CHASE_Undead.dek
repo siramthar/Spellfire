@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="039">Dragon&apos;s Crown Mountain</name><set>4TH</set></card>
+		<card><name id="071">Haven of the Undead</name><set>4TH</set></card>
+		<card><name id="004">The Gorgon&apos;s Crown</name><set>BR</set></card>
+		<card><name id="053">Reorxcrown Mountains</name><set>4TH</set></card>
+		<card><name id="087">Shining Lands</name><set>AR</set></card>
+		<card><name id="020">Narchek</name><set>COBR</set></card>
+		<card><name id="001">Castle Arborgate</name><set>INBR</set></card>
+		<card><name id="013">Paredao Zeca Diabo</name><set>MIT</set></card>
+		<card><name id="028">Haunted Hall of Eveningstar</name><set>1SP</set></card>
+		<card><name id="007">Chapada dos Araripes</name><set>MIT</set></card>
+		<card><name id="003">Caer Allison</name><set>FR</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="016">Council of Wyrms</name><set>DR</set></card>
+		<card><name id="020">Dragon Raid!</name><set>DR</set></card>
+		<card><name id="100">Good Fortune</name><set>3RD</set></card>
+		<card><name id="122">Labor of Legend</name><set>4TH</set></card>
+		<card><name id="288">Spirit of the land</name><set>3RD</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="098">Year of Plenty</name><set>AR</set></card>
+		<card><name id="028">Pelath the Bronze Dragon</name><set>DR</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>DL</set></card>
+		<card><name id="082">Corpse Dragon</name><set>TU</set></card>
+		<card><name id="098">Labatut</name><set>MIT</set></card>
+		<card><name id="034">Rauglothgor</name><set>DR</set></card>
+		<card><name id="266">Winged Horror</name><set>4TH</set></card>
+		<card><name id="071">The Vampire</name><set>NS</set></card>
+		<card><name id="005">Tummbutt, the Faerie Dragon</name><set>CHBR</set></card>
+		<card><name id="064">The Gorgon</name><set>BR</set></card>
+		<card><name id="108">Rei Dragao</name><set>MIT</set></card>
+		<card><name id="284">Nenioc</name><set>4TH</set></card>
+		<card><name id="088">Headless Horseman</name><set>RL</set></card>
+		<card><name id="039">Sleet</name><set>DR</set></card>
+		<card><name id="061">Staff of Mimicry</name><set>RL</set></card>
+		<card><name id="028">Bag of Holding</name><set>AR</set></card>
+		<card><name id="027">Armor of the High King</name><set>BR</set></card>
+		<card><name id="067">Crystal Dragon Figurine</name><set>DU</set></card>
+		<card><name id="027">Rod of 7 Parts, Part 7</name><set>AR</set></card>
+		<card><name id="021">Inherent Refusal</name><set>25Y</set></card>
+		<card><name id="081">Death Field</name><set>DU</set></card>
+		<card><name id="079">Create Minion</name><set>DU</set></card>
+		<card><name id="041">Touch of Decay</name><set>BR</set></card>
+		<card><name id="043">The Celestial Emperor</name><set>DR</set></card>
+		<card><name id="456">Wand of Orcus</name><set>4TH</set></card>
+		<card><name id="086">Nullify Magic</name><set>PO</set></card>
+		<card><name id="072">Amulet of Spell Turning</name><set>DU</set></card>
+		<card><name id="006">Crown of Dragon Royalty</name><set>MIBR</set></card>
+		<card><name id="020">Whirling Dervish</name><set>MIBR</set></card>
+		<card><name id="010">Watahh!</name><set>CHBR</set></card>
+		<card><name id="073">Negative Planar Energy</name><set>NS</set></card>
+		<card><name id="007">The Warmonger</name><set>CHBR</set></card>
+		<card><name id="008">Chain Master</name><set>CHBR</set></card>
+		<card><name id="230">Athasian Sloth</name><set>4TH</set></card>
+		<card><name id="019">Stunning Fist</name><set>MIBR</set></card>
+		<card><name id="085">Drake</name><set>DR</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="024">The Azure Tower of Onad the Fallen</name><set>DU</set></card>
+	</superzone>
+</deck>

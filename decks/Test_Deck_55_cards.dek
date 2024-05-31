@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="070">Anytown, Anywhere</name><set>4TH</set></card>
+		<card><name id="051">Boeruine</name><set>4TH</set></card>
+		<card><name id="056">Estwilde</name><set>4TH</set></card>
+		<card><name id="008">Evermeet</name><set>4TH</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="504">Sea of Dust</name><set>4TH</set></card>
+		<card><name id="034">The Forgotten Ruins</name><set>DU</set></card>
+		<card><name id="004">Nelanther</name><set>NS</set></card>
+		<card><name id="006">Richemulot</name><set>NS</set></card>
+		<card><name id="001">The Vast Swamp</name><set>NS</set></card>
+		<card><name id="012">Isle of Dread</name><set>RR</set></card>
+		<card><name id="009">Demonweb Pits</name><set>RR</set></card>
+		<card><name id="203">Siege</name><set>1ST</set></card>
+		<card><name id="150">Siege!</name><set>1ST</set></card>
+		<card><name id="201">Transformation!</name><set>1ST</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="046">Wish</name><set>FR</set></card>
+		<card><name id="043">Limited Wish</name><set>FR</set></card>
+		<card><name id="093">Gabrielle Aderre</name><set>RL</set></card>
+		<card><name id="093">Ellorelloran</name><set>TU</set></card>
+		<card><name id="044">Dearlyn Ambersong</name><set>DU</set></card>
+		<card><name id="076">Drawmij</name><set>AR</set></card>
+		<card><name id="081">Erital Kaan-Ipzirel</name><set>AR</set></card>
+		<card><name id="083">Goldmoon</name><set>AR</set></card>
+		<card><name id="084">Adon</name><set>FR</set></card>
+		<card><name id="358">Dispel Magic</name><set>1ST</set></card>
+		<card><name id="366">Raise Dead</name><set>1ST</set></card>
+		<card><name id="402">Creeping Doom</name><set>4TH</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="074">Dregoth, undead Dragon-King</name><set>AR</set></card>
+		<card><name id="167">Iuz the Evil</name><set>1ST</set></card>
+		<card><name id="086">Intellect Devourer</name><set>1ST</set></card>
+		<card><name id="291">Mikor</name><set>1ST</set></card>
+		<card><name id="061">Myrmidons</name><set>1ST</set></card>
+		<card><name id="221">Assassins</name><set>4TH</set></card>
+		<card><name id="224">Rowan</name><set>4TH</set></card>
+		<card><name id="050">Aurak Draconians</name><set>DL</set></card>
+		<card><name id="045">Brine Dragon</name><set>DL</set></card>
+		<card><name id="085">Drake</name><set>DR</set></card>
+		<card><name id="420">Chest of Many Things</name><set>1ST</set></card>
+		<card><name id="188">Dark Haven</name><set>4TH</set></card>
+		<card><name id="175">Shield of Wickedness</name><set>4TH</set></card>
+		<card><name id="186">Winged Boots</name><set>4TH</set></card>
+		<card><name id="076">Foulwing</name><set>TU</set></card>
+		<card><name id="152">Codex of the Infinite Planes</name><set>1ST</set></card>
+		<card><name id="258">Tyrinon</name><set>4TH</set></card>
+		<card><name id="033">Mulmaster</name><set>1ST</set></card>
+		<card><name id="395">Banishment</name><set>1ST</set></card>
+		<card><name id="389">Re-target</name><set>4TH</set></card>
+		<card><name id="376">Death Fog</name><set>4TH</set></card>
+		<card><name id="406">Phorbes&apos;s Scrolls</name><set>1ST</set></card>
+		<card><name id="403">Earthquake</name><set>4TH</set></card>
+		<card><name id="073">Flesh Golem</name><set>RL</set></card>
+		<card><name id="081">Ancient Dracolich</name><set>NS</set></card>
+	</superzone>
+</deck>

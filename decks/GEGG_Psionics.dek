@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="413">Map of Life</name><set>1STCH</set></card>
+		<card><name id="009">The Tantelear</name><set>POSP</set></card>
+		<card><name id="012">The Apple of His Eye</name><set>FRSP</set></card>
+		<card><name id="082">Hypnosnake</name><set>RR</set></card>
+		<card><name id="024">Colum Calder</name><set>PO</set></card>
+		<card><name id="006">The ultimate triumvirate</name><set>TUSP</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="007">UnderToril</name><set>TU</set></card>
+		<card><name id="212">Mind Flayer</name><set>4TH</set></card>
+		<card><name id="021">Highmaster Illithios</name><set>DUSP</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="005">Sword of the High King</name><set>PO</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="074">Control Wind</name><set>PO</set></card>
+		<card><name id="015">Rafe Racker</name><set>PO</set></card>
+		<card><name id="096">Banishment</name><set>PO</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="097">Create Object</name><set>PO</set></card>
+		<card><name id="439">The Starving Artisit</name><set>1STCH</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="135">The Scarlet Brotherhood</name><set>3RD</set></card>
+		<card><name id="017">Bilago Lumen</name><set>PO</set></card>
+		<card><name id="023">Gib Aklem</name><set>NSSP</set></card>
+		<card><name id="500">The Master Strategist</name><set>4TH</set></card>
+		<card><name id="099">Thought Eater</name><set>AR</set></card>
+		<card><name id="003">UnderKrynn</name><set>TU</set></card>
+		<card><name id="076">Repugnance</name><set>PO</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="012">Kelsur Brighteye</name><set>PO</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="009">Davron Parscall</name><set>PO</set></card>
+		<card><name id="143">Land Ho!</name><set>4TH</set></card>
+		<card><name id="010">Yorgia Sandow</name><set>PO</set></card>
+		<card><name id="075">Drain Will</name><set>DU</set></card>
+		<card><name id="001">Mithas</name><set>DL</set></card>
+		<card><name id="011">Unusually Good Fortune</name><set>FRSP</set></card>
+		<card><name id="023">Lyr of the Mists</name><set>PO</set></card>
+		<card><name id="013">Kozakura</name><set>FR</set></card>
+		<card><name id="015">Sapphire the Blue Dragon</name><set>DRSP</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="073">Psionic Disintegration</name><set>DU</set></card>
+		<card><name id="073">Molecular Agitation</name><set>PO</set></card>
+		<card><name id="020">Seluna Darkenstar</name><set>PO</set></card>
+		<card><name id="021">Kerm of Tyr</name><set>PO</set></card>
+		<card><name id="013">Rand the Bowyer</name><set>PO</set></card>
+		<card><name id="056">Vorpal Blade</name><set>FR</set></card>
+		<card><name id="010">The Coral Kingdom</name><set>4TH</set></card>
+		<card><name id="074">Magic Draining Field</name><set>DU</set></card>
+		<card><name id="067">Combat Mind</name><set>DR</set></card>
+		<card><name id="008">UnderOerth</name><set>TU</set></card>
+		<card><name id="032">Ur Draxa</name><set>4TH</set></card>
+		<card><name id="070">Molecular Rearrangement</name><set>PO</set></card>
+		<card><name id="025">Kelsar Redbelt</name><set>PO</set></card>
+		<card><name id="067">Complete Healing</name><set>PO</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="003">Lair of Dregoth, the Undead Dragon-King</name><set>DU</set></card>
+	</superzone>
+</deck>

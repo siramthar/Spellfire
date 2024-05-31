@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="045">Tyvorg the Frost Giant</name><set>DU</set></card>
+		<card><name id="309">Formorian Giant</name><set>4TH</set></card>
+		<card><name id="008">Quill Pen of the Planes</name><set>POSP</set></card>
+		<card><name id="096">Fowron, the Giant</name><set>TU</set></card>
+		<card><name id="041">King Snurre the Fire Giant</name><set>RR</set></card>
+		<card><name id="042">Queen Frumpy the Fire Giant</name><set>RR</set></card>
+		<card><name id="313">Neranal</name><set>4TH</set></card>
+		<card><name id="081">Enormous Giant&apos;s Rock</name><set>RR</set></card>
+		<card><name id="056">Mindkiller</name><set>TU</set></card>
+		<card><name id="027">Rod of 7 Parts, Part 7</name><set>AR</set></card>
+		<card><name id="079">Maul of the Titans</name><set>DR</set></card>
+		<card><name id="082">Stone Giant</name><set>FR</set></card>
+		<card><name id="168">Ghost Crystal</name><set>4TH</set></card>
+		<card><name id="072">Amulet of Spell Turning</name><set>DU</set></card>
+		<card><name id="480">Annam</name><set>4TH</set></card>
+		<card><name id="013">Giant&apos;s Run Mountains</name><set>4TH</set></card>
+		<card><name id="402">Creeping Doom</name><set>4TH</set></card>
+		<card><name id="158">Titans Walk the Earth</name><set>4TH</set></card>
+		<card><name id="023">Giant Troll</name><set>DUSP</set></card>
+		<card><name id="389">Re-target</name><set>4TH</set></card>
+		<card><name id="248">Ki-Rin</name><set>4TH</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="319">The Caravan</name><set>3RD</set></card>
+		<card><name id="244">Ogre Mage</name><set>4TH</set></card>
+		<card><name id="327">Funerea</name><set>4TH</set></card>
+		<card><name id="006">Draconic allies</name><set>DRSP</set></card>
+		<card><name id="312">Pellgrade the Inexorable</name><set>4TH</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="137">Deflection</name><set>4TH</set></card>
+		<card><name id="025">Complete Surprise</name><set>NS</set></card>
+		<card><name id="246">The Dreaded Ghost</name><set>4TH</set></card>
+		<card><name id="143">Land Ho!</name><set>4TH</set></card>
+		<card><name id="494">Forbidden Knowledge</name><set>4TH</set></card>
+		<card><name id="186">Winged Boots</name><set>4TH</set></card>
+		<card><name id="014">The Glacial Rift</name><set>RR</set></card>
+		<card><name id="005">Griff Mountains</name><set>DR</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="020">Duchy of Tenh</name><set>4TH</set></card>
+		<card><name id="050">Hero Slayer</name><set>DU</set></card>
+		<card><name id="040">Jarl the Frost Giant</name><set>RR</set></card>
+		<card><name id="042">The Giantdowns</name><set>4TH</set></card>
+		<card><name id="520">The Winner&apos;s Cape</name><set>4TH</set></card>
+		<card><name id="315">Moralin</name><set>4TH</set></card>
+		<card><name id="031">Border Garrison</name><set>DU</set></card>
+		<card><name id="100">Good Fortune</name><set>3RD</set></card>
+		<card><name id="028">Tyr</name><set>4TH</set></card>
+		<card><name id="081">Divine Intervention</name><set>DL</set></card>
+		<card><name id="217">Skeletal Lord</name><set>4TH</set></card>
+		<card><name id="043">The Keeper</name><set>RR</set></card>
+		<card><name id="142">Phantasmal Wolf</name><set>4TH</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="081">Undead Dragonrider</name><set>DR</set></card>
+		<card><name id="002">Menzoberranzan</name><set>3RD</set></card>
+		<card><name id="336">Pyre</name><set>4TH</set></card>
+		<card><name id="004">White Plume Mountain</name><set>RR</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="022">Song of the Dragonlance</name><set>DU</set></card>
+	</superzone>
+</deck>

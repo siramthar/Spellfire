@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>240531</lastupdateYYMMDD>
+<versionurl>http://example.yourserver.com/version.txt</versionurl>
+<updateurl>http://example.yourserver.com/updatelist.txt</updateurl>
+<message>I changed some stuff.</message>
+</version>

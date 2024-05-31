@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="008">Jerome Kazinskaia</name><set>INBR</set></card>
+		<card><name id="189">Arch-Druid</name><set>3RD</set></card>
+		<card><name id="268">Bagual</name><set>3RD</set></card>
+		<card><name id="010">Delsenora</name><set>1STSP</set></card>
+		<card><name id="053">Adventurers!</name><set>3RD</set></card>
+		<card><name id="172">Hettman Tsurin</name><set>3RD</set></card>
+		<card><name id="021">Gib Irod</name><set>NSSP</set></card>
+		<card><name id="262">Erellika</name><set>3RD</set></card>
+		<card><name id="089">Helm</name><set>FR</set></card>
+		<card><name id="092">Cyric</name><set>FR</set></card>
+		<card><name id="022">Chaos Lord</name><set>DUSP</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="026">Recife</name><set>BRPROMO</set></card>
+		<card><name id="088">Bluet Spur</name><set>AR</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="030">Shrine of Light</name><set>BRPROMO</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="139">Duchy of Tenh</name><set>3RD</set></card>
+		<card><name id="005">Avanil</name><set>BR</set></card>
+		<card><name id="019">Forte Ratones</name><set>MIT</set></card>
+		<card><name id="011">Ouro Preto</name><set>MIT</set></card>
+		<card><name id="033">Mulmaster</name><set>1SP</set></card>
+		<card><name id="014">Block Golem</name><set>BRPROMO</set></card>
+		<card><name id="439">The Starving Artisit</name><set>1STCH</set></card>
+		<card><name id="008">Mace of Blood Drain</name><set>COBR</set></card>
+		<card><name id="003">Aleijadinho</name><set>MITSP</set></card>
+		<card><name id="218">Johydee&apos;s Mask</name><set>3RD</set></card>
+		<card><name id="061">The Ring of Winter</name><set>FR</set></card>
+		<card><name id="054">Deflection</name><set>AR</set></card>
+		<card><name id="466">Throne of the Pharaohs</name><set>4TH</set></card>
+		<card><name id="005">Sword of the High King</name><set>PO</set></card>
+		<card><name id="003">Fighting Dirty!</name><set>DUSP</set></card>
+		<card><name id="019">Wyrm&apos;s Decree</name><set>DR</set></card>
+		<card><name id="038">No Funny Business</name><set>AR</set></card>
+		<card><name id="051">The White Weird</name><set>DU</set></card>
+		<card><name id="048">Intercession</name><set>RR</set></card>
+		<card><name id="033">Reincarnate</name><set>FR</set></card>
+		<card><name id="017">Atonement</name><set>INBR</set></card>
+		<card><name id="002">Corruption of Soul</name><set>COBR</set></card>
+		<card><name id="402">Creeping Doom</name><set>4TH</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="056">Mindkiller</name><set>TU</set></card>
+		<card><name id="086">Protecao do Caipora</name><set>MIT</set></card>
+		<card><name id="034">Resurrection</name><set>FR</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="046">Wish</name><set>FR</set></card>
+		<card><name id="437">Estate Transference</name><set>1STCH</set></card>
+		<card><name id="393">Disintegrate</name><set>1SP</set></card>
+		<card><name id="044">Time Stop</name><set>FR</set></card>
+		<card><name id="063">Drawnij&apos;s Instant Summons</name><set>BR</set></card>
+		<card><name id="191">Pergaminho de Acesso a Outros Mundos</name><set>PT</set></card>
+		<card><name id="345">The Magian</name><set>4TH</set></card>
+		<card><name id="034">Gib Odraude</name><set>BRPROMO</set></card>
+		<card><name id="032">Colonization</name><set>BRPROMO</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="001">Join the Core</name><set>RLSP</set></card>
+	</superzone>
+</deck>

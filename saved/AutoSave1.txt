@@ -1,0 +1,147 @@
+<save>
+<turn>9</turn>
+<player>
+<name>Siramthar</name>
+<seat>0</seat>
+<zone0>
+<visibleto>Siramthar</visibleto>
+<card><id>2698</id><owner>Siramthar</owner></card>
+<card><id>1292</id><owner>Siramthar</owner></card>
+<card><id>1177</id><owner>Siramthar</owner></card>
+<card><id>1459</id><owner>Siramthar</owner></card>
+<card><id>2181</id><owner>Siramthar</owner></card>
+<card><id>1126</id><owner>Siramthar</owner></card>
+<card><id>2253</id><owner>Siramthar</owner></card>
+</zone0>
+<zone1>
+<card><id>1119</id><owner>Siramthar</owner></card>
+<card><id>1749</id><owner>Siramthar</owner></card>
+<card><id>814</id><owner>Siramthar</owner></card>
+<card><id>1202</id><owner>Siramthar</owner></card>
+<card><id>1492</id><owner>Siramthar</owner></card>
+<card><id>1398</id><owner>Siramthar</owner></card>
+<card><id>2615</id><owner>Siramthar</owner></card>
+<card><id>1122</id><owner>Siramthar</owner></card>
+<card><id>1123</id><owner>Siramthar</owner></card>
+<card><id>959</id><owner>Siramthar</owner></card>
+<card><id>2474</id><owner>Siramthar</owner></card>
+<card><id>1910</id><owner>Siramthar</owner></card>
+<card><id>3045</id><owner>Siramthar</owner></card>
+<card><id>1124</id><owner>Siramthar</owner></card>
+</zone1>
+<zone2>
+<visibleto>Siramthar</visibleto>
+<visibleto>Rhys Diirkall</visibleto>
+<card><id>2009</id><owner>Siramthar</owner></card>
+<card><id>1455</id><owner>Siramthar</owner></card>
+<card><id>842</id><owner>Siramthar</owner></card>
+<card><id>3042</id><owner>Siramthar</owner></card>
+<card><id>1387</id><owner>Siramthar</owner></card>
+<card><id>1321</id><owner>Siramthar</owner></card>
+<card><id>1763</id><owner>Siramthar</owner></card>
+<card><id>770</id><owner>Siramthar</owner></card>
+<card><id>1056</id><owner>Siramthar</owner></card>
+<card><id>816</id><owner>Siramthar</owner></card>
+<card><id>1744</id><owner>Siramthar</owner></card>
+<card><id>1125</id><owner>Siramthar</owner></card>
+<card><id>1118</id><owner>Siramthar</owner></card>
+<card><id>1405</id><owner>Siramthar</owner></card>
+<card><id>1179</id><owner>Siramthar</owner></card>
+<card><id>853</id><owner>Siramthar</owner></card>
+<card><id>2278</id><owner>Siramthar</owner></card>
+<card><id>851</id><owner>Siramthar</owner></card>
+<card><id>2252</id><owner>Siramthar</owner></card>
+</zone2>
+<zone3>
+<visibleto>Siramthar</visibleto>
+<visibleto>Rhys Diirkall</visibleto>
+</zone3>
+<zone4>
+<visibleto>Siramthar</visibleto>
+<visibleto>Rhys Diirkall</visibleto>
+<card><id>1295</id><owner>Siramthar</owner></card>
+<card><id>786</id><owner>Siramthar</owner></card>
+<card><id>1772</id><owner>Siramthar</owner></card>
+</zone4>
+<zone5>
+<visibleto>Siramthar</visibleto>
+<visibleto>Rhys Diirkall</visibleto>
+<card><id>1513</id><owner>Siramthar</owner></card>
+<card><id>1284</id><owner>Siramthar</owner></card>
+<card><id>2699</id><owner>Siramthar</owner></card>
+<card><id>1290</id><owner>Siramthar</owner></card>
+</zone5>
+<zone6>
+<visibleto>Siramthar</visibleto>
+</zone6>
+</player>
+<player>
+<name>Rhys Diirkall</name>
+<seat>1</seat>
+<zone0>
+<visibleto>Rhys Diirkall</visibleto>
+<card><id>1167</id><owner>Rhys Diirkall</owner></card>
+<card><id>1272</id><owner>Rhys Diirkall</owner></card>
+<card><id>1247</id><owner>Rhys Diirkall</owner></card>
+<card><id>845</id><owner>Rhys Diirkall</owner></card>
+<card><id>1015</id><owner>Rhys Diirkall</owner></card>
+<card><id>935</id><owner>Rhys Diirkall</owner></card>
+<card><id>1829</id><owner>Rhys Diirkall</owner></card>
+<card><id>1584</id><owner>Rhys Diirkall</owner></card>
+<card><id>1102</id><owner>Rhys Diirkall</owner></card>
+</zone0>
+<zone1>
+</zone1>
+<zone2>
+<visibleto>Rhys Diirkall</visibleto>
+<visibleto>Siramthar</visibleto>
+<card><id>2052</id><owner>Rhys Diirkall</owner></card>
+<card><id>2449</id><owner>Rhys Diirkall</owner></card>
+<card><id>1988</id><owner>Rhys Diirkall</owner></card>
+<card><id>1387</id><owner>Rhys Diirkall</owner></card>
+<card><id>1984</id><owner>Rhys Diirkall</owner></card>
+</zone2>
+<zone3>
+<visibleto>Rhys Diirkall</visibleto>
+<visibleto>Siramthar</visibleto>
+</zone3>
+<zone4>
+<visibleto>Rhys Diirkall</visibleto>
+<visibleto>Siramthar</visibleto>
+</zone4>
+<zone5>
+<visibleto>Rhys Diirkall</visibleto>
+<visibleto>Siramthar</visibleto>
+<card><id>1278</id><owner>Rhys Diirkall</owner></card>
+<card><id>2779</id><owner>Rhys Diirkall</owner></card>
+<card><id>2998</id><owner>Rhys Diirkall</owner></card>
+<card><id>2698</id><owner>Rhys Diirkall</owner></card>
+</zone5>
+<zone6>
+<visibleto>Rhys Diirkall</visibleto>
+</zone6>
+</player>
+<table>
+<card><id>873</id><owner>Rhys Diirkall</owner><rotation>1</rotation><y>0.21</y></card>
+<card><id>2190</id><owner>Siramthar</owner><rotation>1</rotation><x>-0.45</x><y>-0.57</y></card>
+<card><id>874</id><owner>Siramthar</owner><rotation>1</rotation><y>-0.15</y></card>
+<card><id>1229</id><owner>Rhys Diirkall</owner><x>0.18</x><y>0.66</y></card>
+<card><id>1088</id><owner>Rhys Diirkall</owner><x>0.15</x><y>0.6</y></card>
+<card><id>1586</id><owner>Rhys Diirkall</owner><x>0.48</x><y>0.66</y></card>
+<card><id>1100</id><owner>Rhys Diirkall</owner><x>0.45</x><y>0.57</y></card>
+<card><id>2253</id><owner>Rhys Diirkall</owner><x>0.3</x><y>0.69</y></card>
+<card><id>1873</id><owner>Rhys Diirkall</owner><x>0.27</x><y>0.6</y></card>
+<card><id>1383</id><owner>Siramthar</owner><rotation>1</rotation><x>-0.27</x><y>-0.57</y></card>
+<card><id>866</id><owner>Siramthar</owner><rotation>1</rotation><x>-0.36</x><y>-0.75</y></card>
+<card><id>895</id><owner>Rhys Diirkall</owner><x>0.33</x><y>0.78</y></card>
+<card><id>1901</id><owner>Rhys Diirkall</owner><rotation>1</rotation><x>-0.21</x><y>0.45</y></card>
+<card><id>1373</id><owner>Rhys Diirkall</owner><rotation>1</rotation><x>-0.27</x><y>0.63</y></card>
+<card><id>1402</id><owner>Rhys Diirkall</owner><rotation>1</rotation><x>-0.15</x><y>0.63</y></card>
+<card><id>923</id><owner>Siramthar</owner><x>-0.15</x><y>-0.03</y></card>
+<card><id>2193</id><owner>Siramthar</owner><rotation>1</rotation><x>-0.36</x><y>-0.45</y></card>
+<card><id>1660</id><owner>Rhys Diirkall</owner><rotation>1</rotation><x>-0.21</x><y>0.81</y></card>
+<card><id>1250</id><owner>Siramthar</owner><x>-0.09</x><y>-0.63</y></card>
+<card><id>1120</id><owner>Siramthar</owner><x>-0.06</x><y>-0.51</y></card>
+<card><id>2032</id><owner>Siramthar</owner><rotation>1</rotation><x>-0.51</x><y>-0.75</y></card>
+</table>
+</save>

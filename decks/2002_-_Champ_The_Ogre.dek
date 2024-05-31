@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="030">City States</name><set>RL</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="005">Avanil</name><set>BR</set></card>
+		<card><name id="059">Bluet Spur</name><set>4TH</set></card>
+		<card><name id="050">Cariele</name><set>4TH</set></card>
+		<card><name id="003">Lair of the Shadowdrake</name><set>DR</set></card>
+		<card><name id="002">Menzoberranzan</name><set>1SP</set></card>
+		<card><name id="054">Shining Lands</name><set>4TH</set></card>
+		<card><name id="124">Temple of Elemental Evil</name><set>1SP</set></card>
+		<card><name id="123">The Great Kingdom</name><set>1SP</set></card>
+		<card><name id="236">Arkhold</name><set>1SP</set></card>
+		<card><name id="236">Arkhold</name><set>1SP</set></card>
+		<card><name id="085">Fortification: Bailey</name><set>4TH</set></card>
+		<card><name id="242">Lost Oasis</name><set>1SP</set></card>
+		<card><name id="003">Caer Allison</name><set>FR</set></card>
+		<card><name id="099">Cataclysm!</name><set>1SP</set></card>
+		<card><name id="100">Good Fortune</name><set>1SP</set></card>
+		<card><name id="140">Hurricane!</name><set>4TH</set></card>
+		<card><name id="108">Labor of Legend</name><set>1SP</set></card>
+		<card><name id="319">The Caravan</name><set>1SP</set></card>
+		<card><name id="013">The Gathering</name><set>INBR</set></card>
+		<card><name id="201">Transformation!</name><set>1SP</set></card>
+		<card><name id="400">Calm</name><set>1SP</set></card>
+		<card><name id="053">Adventurers!</name><set>1SP</set></card>
+		<card><name id="044">Dearlyn Ambersong</name><set>DU</set></card>
+		<card><name id="025">Dor Amberglow</name><set>DUSP</set></card>
+		<card><name id="007">Karistyne</name><set>INBR</set></card>
+		<card><name id="270">Korgunard the Avangion</name><set>4TH</set></card>
+		<card><name id="293">Larn</name><set>4TH</set></card>
+		<card><name id="009">Lilac Hesabon</name><set>DUSP</set></card>
+		<card><name id="408">Living Scroll</name><set>1STCH</set></card>
+		<card><name id="006">Luccia</name><set>INBR</set></card>
+		<card><name id="291">Migrane</name><set>4TH</set></card>
+		<card><name id="297">Rumples</name><set>4TH</set></card>
+		<card><name id="290">Sharla</name><set>4TH</set></card>
+		<card><name id="295">Shayla</name><set>4TH</set></card>
+		<card><name id="296">Ssilcroth</name><set>4TH</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>DL</set></card>
+		<card><name id="042">The Hapless Halfling</name><set>DU</set></card>
+		<card><name id="292">Vitralis</name><set>4TH</set></card>
+		<card><name id="006">Doppelganger</name><set>CHBR</set></card>
+		<card><name id="019">Icon of Magic</name><set>RRSP</set></card>
+		<card><name id="025">Medallion of Faith</name><set>DLSP</set></card>
+		<card><name id="017">Amulet of Spell Protection</name><set>ARSP</set></card>
+		<card><name id="011">Bag of Beans</name><set>NSSP</set></card>
+		<card><name id="028">Bag of Holding</name><set>AR</set></card>
+		<card><name id="013">Runes of the Future</name><set>RRSP</set></card>
+		<card><name id="061">Staff of Mimicry</name><set>RL</set></card>
+		<card><name id="393">Disintegrate</name><set>1SP</set></card>
+		<card><name id="063">Drawnij&apos;s Instant Summons</name><set>BR</set></card>
+		<card><name id="383">Time Stop</name><set>4TH</set></card>
+		<card><name id="019">Slap!</name><set>INBR</set></card>
+		<card><name id="260">Sadira</name><set>3RD</set></card>
+		<card><name id="139">Duchy of Tenh</name><set>3RD</set></card>
+		<card><name id="010">Enter Darkness Together</name><set>DUSP</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="014">The Guild of Adventurers</name><set>INBR</set></card>
+	</superzone>
+</deck>

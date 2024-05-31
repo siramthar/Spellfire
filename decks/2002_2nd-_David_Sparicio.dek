@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="005">Cormyr</name><set>3RD</set></card>
+		<card><name id="017">Elven Tower</name><set>MIBR</set></card>
+		<card><name id="002">Ruins of Zhentil Keep</name><set>4TH</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="003">Mintarn</name><set>NS</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="057">Blood Sea of Istar</name><set>4TH</set></card>
+		<card><name id="053">Reorxcrown Mountains</name><set>4TH</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="010">The Coral Kingdom</name><set>4TH</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="001">Castle Arborgate</name><set>INBR</set></card>
+		<card><name id="033">Mulmaster</name><set>3RD</set></card>
+		<card><name id="008">Jerome Kazinskaia</name><set>INBR</set></card>
+		<card><name id="020">Poor Oriental Lord</name><set>DUSP</set></card>
+		<card><name id="016">Gib Kcir</name><set>RRSP</set></card>
+		<card><name id="167">Iuz the Evil</name><set>3RD</set></card>
+		<card><name id="028">Bigby the Great</name><set>RR</set></card>
+		<card><name id="270">Korgunard the Avangion</name><set>4TH</set></card>
+		<card><name id="329">Jella</name><set>4TH</set></card>
+		<card><name id="023">Lyr of the Mists</name><set>PO</set></card>
+		<card><name id="024">Elyk the Bard</name><set>DUSP</set></card>
+		<card><name id="014">Necba the Wrathmaker</name><set>DUSP</set></card>
+		<card><name id="035">Turin Deathstalker</name><set>NS</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>DL</set></card>
+		<card><name id="019">Slap!</name><set>INBR</set></card>
+		<card><name id="508">Ethereal Champion</name><set>4TH</set></card>
+		<card><name id="413">Map of Life</name><set>1STCH</set></card>
+		<card><name id="138">Temporal Stasis</name><set>4TH</set></card>
+		<card><name id="013">The Gathering</name><set>INBR</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="140">Hurricane!</name><set>4TH</set></card>
+		<card><name id="010">Enter Darkness Together</name><set>DUSP</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="003">Caer Allison</name><set>FR</set></card>
+		<card><name id="143">Land Ho!</name><set>4TH</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="013">Runes of the Future</name><set>RRSP</set></card>
+		<card><name id="218">Johydee&apos;s Mask</name><set>3RD</set></card>
+		<card><name id="466">Throne of the Pharaohs</name><set>4TH</set></card>
+		<card><name id="019">Icon of Magic</name><set>RRSP</set></card>
+		<card><name id="061">Staff of Mimicry</name><set>RL</set></card>
+		<card><name id="020">Winged Boots</name><set>AR</set></card>
+		<card><name id="171">Rings of All Seeing</name><set>4TH</set></card>
+		<card><name id="011">Bag of Beans</name><set>NSSP</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="034">Resurrection</name><set>FR</set></card>
+		<card><name id="393">Disintegrate</name><set>3RD</set></card>
+		<card><name id="063">Drawnij&apos;s Instant Summons</name><set>BR</set></card>
+		<card><name id="384">Wish</name><set>4TH</set></card>
+		<card><name id="437">Estate Transference</name><set>1STCH</set></card>
+		<card><name id="044">Time Stop</name><set>FR</set></card>
+		<card><name id="086">Hijacking</name><set>DU</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="011">Pit of the Mind Lord</name><set>DU</set></card>
+	</superzone>
+</deck>

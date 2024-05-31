@@ -1,0 +1,57 @@
+1	Medallion of Faith
+1	The Skull of Fistandantilus
+1	Pedra Azul
+1	Assembre
+1	Blood Sea of Istar
+1	Chapada dos Araripes
+1	Fernando de Noronha
+1	Mithas
+1	Pantanal
+1	Reorxcrown Mountains
+1	Shining Lands
+1	Tower by the Sea
+1	UnderKrynn
+1	Pyrite, the Ancient Gold Dragon
+1	Dargent, Silver Dragon
+1	Guerreiro Aguia
+1	Tiradentes
+1	Sotsab, Master of Artifacts
+1	Colossal Turtle
+1	Cyan Bloodbane
+1	Deathstream, Black Dragon
+1	Sturm Brightblade
+1	Necba the Wrathmaker
+1	Aquilla
+1	Tasslehoff Burrfoot
+1	Gib Drawsemaj
+1	Cataclysm!
+1	Good Fortune
+1	Rebater
+1	The Caravan
+1	Treasure Fleet
+1	Calm
+1	Con Game
+1	Underhanded Deal
+1	Hijacking
+1	Disintegrate
+1	Wish
+1	Limited Wish
+1	Estate Transference
+1	Divine Assistance
+1	Gato Negro
+1	The Dreaded Ghost
+1	Ancient Dracolich
+1	Undead Dragonrider
+1	Ghost Crystal
+1	Amulet of Spell Protection
+1	The Hapless Halfling
+1	Mimican
+1	Son of Tasselhoff
+1	Schubert Convention
+1	An eye for na eye
+1	Framed!
+1	Run Away
+1	Titans Walk the Earth
+1	Gauntlets of Dexterity
+Dungeon:
+1	Song of the Dragonlance

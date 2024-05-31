@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="084">Noble Djinni</name><set>3RD</set></card>
+		<card><name id="257">Gladiators</name><set>3RD</set></card>
+		<card><name id="061">Myrmidons</name><set>3RD</set></card>
+		<card><name id="318">The Heartwood Spear</name><set>3RD</set></card>
+		<card><name id="270">Shayira</name><set>3RD</set></card>
+		<card><name id="358">Dispel Magic</name><set>3RD</set></card>
+		<card><name id="366">Raise Dead</name><set>3RD</set></card>
+		<card><name id="399">Ancient Curse</name><set>3RD</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="202">Enslaved!</name><set>3RD</set></card>
+		<card><name id="100">Good Fortune</name><set>3RD</set></card>
+		<card><name id="288">Spirit of the land</name><set>3RD</set></card>
+		<card><name id="319">The Caravan</name><set>3RD</set></card>
+		<card><name id="101">Surprise Raid</name><set>3RD</set></card>
+		<card><name id="201">Transformation!</name><set>3RD</set></card>
+		<card><name id="323">The Outcast</name><set>3RD</set></card>
+		<card><name id="301">Tithian</name><set>3RD</set></card>
+		<card><name id="258">Rikus</name><set>3RD</set></card>
+		<card><name id="259">Neeva</name><set>3RD</set></card>
+		<card><name id="236">Arkhold</name><set>3RD</set></card>
+		<card><name id="217">Net of Entrapment</name><set>3RD</set></card>
+		<card><name id="105">Staff of Conjuring</name><set>3RD</set></card>
+		<card><name id="173">Griffon</name><set>3RD</set></card>
+		<card><name id="284">Mul Savage</name><set>3RD</set></card>
+		<card><name id="305">Borys</name><set>3RD</set></card>
+		<card><name id="226">Nibenay</name><set>3RD</set></card>
+		<card><name id="227">Balic</name><set>3RD</set></card>
+		<card><name id="223">Urik</name><set>3RD</set></card>
+		<card><name id="224">Tyr</name><set>3RD</set></card>
+		<card><name id="225">Gulg</name><set>3RD</set></card>
+		<card><name id="124">Temple of Elemental Evil</name><set>3RD</set></card>
+		<card><name id="222">Raam</name><set>3RD</set></card>
+		<card><name id="266">Azhul</name><set>3RD</set></card>
+		<card><name id="351">Sticks to Snakes</name><set>3RD</set></card>
+		<card><name id="195">Treants of the Grandwood</name><set>3RD</set></card>
+		<card><name id="459">Obsidian Man of Urik</name><set>4TH</set></card>
+		<card><name id="077">Klik-Ka&apos;cha</name><set>AR</set></card>
+		<card><name id="299">Captain Kazhal</name><set>3RD</set></card>
+		<card><name id="335">Merik</name><set>4TH</set></card>
+		<card><name id="327">Funerea</name><set>4TH</set></card>
+		<card><name id="298">Stef&apos;fa Naf&apos;ski</name><set>3RD</set></card>
+		<card><name id="074">Dregoth, undead Dragon-King</name><set>AR</set></card>
+		<card><name id="075">Korgunard the Avangion</name><set>AR</set></card>
+		<card><name id="060">Earth Elemental</name><set>PO</set></card>
+		<card><name id="034">The Forest Ridge</name><set>4TH</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="085">Antiga Sothligor</name><set>PT</set></card>
+		<card><name id="041">Roc</name><set>AR</set></card>
+		<card><name id="045">Brine Dragon</name><set>DL</set></card>
+		<card><name id="034">Resurrection</name><set>FR</set></card>
+		<card><name id="047">Slay Living</name><set>RR</set></card>
+		<card><name id="277">Silver Hands</name><set>3RD</set></card>
+		<card><name id="071">Clockwork Ogre</name><set>DU</set></card>
+		<card><name id="345">Bau Mistico de Nystul</name><set>PT</set></card>
+	</superzone>
+</deck>

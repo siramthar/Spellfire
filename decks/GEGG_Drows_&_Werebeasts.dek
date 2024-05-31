@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="484">Ferrix</name><set>4TH</set></card>
+		<card><name id="323">Malaruat</name><set>4TH</set></card>
+		<card><name id="337">Ansalong</name><set>4TH</set></card>
+		<card><name id="248">Ki-Rin</name><set>4TH</set></card>
+		<card><name id="253">Drizzt Do&apos;Urden</name><set>4TH</set></card>
+		<card><name id="021">Drow Justice</name><set>TU</set></card>
+		<card><name id="023">Drow Assassin</name><set>TUSP</set></card>
+		<card><name id="071">Drow Matron</name><set>3RD</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="020">Moonlight Madness</name><set>NS</set></card>
+		<card><name id="054">Herald of Mei Lung</name><set>NS</set></card>
+		<card><name id="166">Lolth, the Spider Queen</name><set>3RD</set></card>
+		<card><name id="014">Assassin&apos;s Guild</name><set>NS</set></card>
+		<card><name id="008">The Cavernous Hall</name><set>TUSP</set></card>
+		<card><name id="032">Jacqueline Renier</name><set>NS</set></card>
+		<card><name id="005">Avanil</name><set>BR</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="018">Cavern of Ancient Knowledge</name><set>NS</set></card>
+		<card><name id="105">Staff of Conjuring</name><set>3RD</set></card>
+		<card><name id="007">The Dispossessed</name><set>TUSP</set></card>
+		<card><name id="413">Map of Life</name><set>1STCH</set></card>
+		<card><name id="024">Harvest Moon</name><set>RL</set></card>
+		<card><name id="236">Loup-Garou</name><set>4TH</set></card>
+		<card><name id="051">The White Weird</name><set>DU</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="083">Werewolf</name><set>FR</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="064">Amulet of the Beast</name><set>RL</set></card>
+		<card><name id="032">Night of the Blue Moon</name><set>PO</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="068">Shera the Wise</name><set>NS</set></card>
+		<card><name id="006">The Tripolar Triumvirate</name><set>TU</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="065">Werebear</name><set>NS</set></card>
+		<card><name id="042">Hallucinatory Terrain</name><set>FR</set></card>
+		<card><name id="084">Noble Djinni</name><set>3RD</set></card>
+		<card><name id="020">Duchy of Tenh</name><set>4TH</set></card>
+		<card><name id="213">Intellect Devourer</name><set>4TH</set></card>
+		<card><name id="087">Harkon Lukas</name><set>RL</set></card>
+		<card><name id="123">The Great Kingdom</name><set>3RD</set></card>
+		<card><name id="027">Rod of 7 Parts, Part 7</name><set>AR</set></card>
+		<card><name id="014">The North Wind</name><set>TU</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="225">Ashathra</name><set>4TH</set></card>
+		<card><name id="008">UnderOerth</name><set>TU</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="001">Lazarus the Drow</name><set>TUSP</set></card>
+		<card><name id="025">Complete Surprise</name><set>NS</set></card>
+		<card><name id="072">Wereshark</name><set>NS</set></card>
+		<card><name id="224">Rowan</name><set>4TH</set></card>
+		<card><name id="019">Gib Hcivonad</name><set>NSSP</set></card>
+		<card><name id="028">Tyr</name><set>4TH</set></card>
+		<card><name id="093">Ellorelloran</name><set>TU</set></card>
+		<card><name id="021">The Sword and Helm of Garion</name><set>TUSP</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="022">Song of the Dragonlance</name><set>DU</set></card>
+	</superzone>
+</deck>

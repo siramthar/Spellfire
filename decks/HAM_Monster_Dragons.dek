@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="046">Wish</name><set>FR</set></card>
+		<card><name id="023">Ancient Draconic Magic</name><set>DRSP</set></card>
+		<card><name id="021">Drow Justice</name><set>TU</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="393">Disintegrate</name><set>1SP</set></card>
+		<card><name id="010">Horn of Change</name><set>RRSP</set></card>
+		<card><name id="319">The Caravan</name><set>3RD</set></card>
+		<card><name id="008">Palanthas</name><set>DR</set></card>
+		<card><name id="026">Infyrana the Dragon</name><set>DR</set></card>
+		<card><name id="096">Breath Weapon III</name><set>DR</set></card>
+		<card><name id="389">Re-target</name><set>4TH</set></card>
+		<card><name id="024">Underground Lair</name><set>DRSP</set></card>
+		<card><name id="009">Mount Deismaar</name><set>DR</set></card>
+		<card><name id="081">Undead Dragonrider</name><set>DR</set></card>
+		<card><name id="082">Corpse Dragon</name><set>TU</set></card>
+		<card><name id="456">Wand of Orcus</name><set>4TH</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="005">Griff Mountains</name><set>DR</set></card>
+		<card><name id="171">Rings of All Seeing</name><set>4TH</set></card>
+		<card><name id="063">Drawnij&apos;s Instant Summons</name><set>BR</set></card>
+		<card><name id="003">Boreas</name><set>DRSP</set></card>
+		<card><name id="039">Dragon&apos;s Crown Mountain</name><set>4TH</set></card>
+		<card><name id="065">Council Aerie</name><set>4TH</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="099">Age of the Dragon</name><set>DR</set></card>
+		<card><name id="169">Net of Entrapment</name><set>4TH</set></card>
+		<card><name id="370">Dispel Magic</name><set>4TH</set></card>
+		<card><name id="031">Falx the Silver Dragon</name><set>RR</set></card>
+		<card><name id="036">Shadow Dragon</name><set>DR</set></card>
+		<card><name id="148">Monstrous INtervention</name><set>4TH</set></card>
+		<card><name id="091">Claw</name><set>DR</set></card>
+		<card><name id="004">Dragonspine Mountains</name><set>DR</set></card>
+		<card><name id="014">Red Dragon Figurine</name><set>DRSP</set></card>
+		<card><name id="016">The Lost City</name><set>RR</set></card>
+		<card><name id="020">Dragon Raid!</name><set>DR</set></card>
+		<card><name id="056">Vorpal Blade</name><set>FR</set></card>
+		<card><name id="041">Cyan Bloodbane</name><set>DR</set></card>
+		<card><name id="008">Tomb of Horrors</name><set>RR</set></card>
+		<card><name id="013">Chimera</name><set>DRSP</set></card>
+		<card><name id="081">Ancient Dracolich</name><set>NS</set></card>
+		<card><name id="004">The Gorgon&apos;s Crown</name><set>BR</set></card>
+		<card><name id="165">Staff of Conjuring</name><set>4TH</set></card>
+		<card><name id="035">Pyrite, the Ancient Gold Dragon</name><set>DL</set></card>
+		<card><name id="018">Dragon&apos;s Bones</name><set>DRSP</set></card>
+		<card><name id="018">Dragon&apos;s Graveyard</name><set>DR</set></card>
+		<card><name id="058">Blessing of Bahamut</name><set>DR</set></card>
+		<card><name id="016">Council of Wyrms</name><set>DR</set></card>
+		<card><name id="025">Medallion of Faith</name><set>DLSP</set></card>
+		<card><name id="002">Cold Cup of Calamity</name><set>FRSP</set></card>
+		<card><name id="039">Sleet</name><set>DR</set></card>
+		<card><name id="078">Mykell, Amethyst Great Wyrm</name><set>AR</set></card>
+		<card><name id="005">Cron the Black</name><set>DRSP</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="072">Deathstream, Black Dragon</name><set>AR</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="004">Domain of Takhisis, Queen of Darkness</name><set>DU</set></card>
+	</superzone>
+</deck>

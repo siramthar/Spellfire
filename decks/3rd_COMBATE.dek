@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="017">Stryck</name><set>1STSP</set></card>
+		<card><name id="089">Arijani</name><set>RL</set></card>
+		<card><name id="339">Espadachim Aurak</name><set>PT</set></card>
+		<card><name id="022">Lovely Colleen</name><set>1STSP</set></card>
+		<card><name id="016">Halcyon</name><set>1STSP</set></card>
+		<card><name id="011">Gib Evets</name><set>1STSP</set></card>
+		<card><name id="013">Gib Htimsen</name><set>1STSP</set></card>
+		<card><name id="431">Prismal the Outrageous</name><set>1STCH</set></card>
+		<card><name id="010">Delsenora</name><set>1STSP</set></card>
+		<card><name id="009">Shalbaal, Red Dragon</name><set>1STSP</set></card>
+		<card><name id="002">Edormira, Red Dragon</name><set>1STSP</set></card>
+		<card><name id="421">Gelatinous Cube</name><set>1STCH</set></card>
+		<card><name id="097">Dr. Mordenheim</name><set>RL</set></card>
+		<card><name id="095">Sir Edmund Bloodsworth</name><set>RL</set></card>
+		<card><name id="079">Dwarf of Earthfast</name><set>3RD</set></card>
+		<card><name id="460">The Throne of the Gods</name><set>4TH</set></card>
+		<card><name id="456">Wand of Orcus</name><set>4TH</set></card>
+		<card><name id="089">Mighty Servant of Leuk-o</name><set>DR</set></card>
+		<card><name id="202">Enslaved!</name><set>3RD</set></card>
+		<card><name id="099">Cataclysm!</name><set>3RD</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="401">Discovery of Spellfire</name><set>1STCH</set></card>
+		<card><name id="101">Surprise Raid</name><set>3RD</set></card>
+		<card><name id="319">The Caravan</name><set>3RD</set></card>
+		<card><name id="025">Complete Surprise</name><set>NS</set></card>
+		<card><name id="267">Sabotador Suicida</name><set>PT</set></card>
+		<card><name id="217">Net of Entrapment</name><set>3RD</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="190">Pan&apos;s Pipes</name><set>4TH</set></card>
+		<card><name id="420">Chest of Many Things</name><set>1STCH</set></card>
+		<card><name id="006">Dragonsbane</name><set>PO</set></card>
+		<card><name id="071">Clockwork Ogre</name><set>DU</set></card>
+		<card><name id="026">Rod of 7 Parts, Part 6</name><set>AR</set></card>
+		<card><name id="003">Lair of the Shadowdrake</name><set>DR</set></card>
+		<card><name id="005">Doc&apos;s Island</name><set>RR</set></card>
+		<card><name id="002">The Forbidden City</name><set>RR</set></card>
+		<card><name id="015">The Lendore Isles</name><set>RR</set></card>
+		<card><name id="008">Tomb of Horrors</name><set>RR</set></card>
+		<card><name id="004">White Plume Mountain</name><set>RR</set></card>
+		<card><name id="006">The Tripolar Triumvirate</name><set>TU</set></card>
+		<card><name id="004">The Bipolar Triumvirate</name><set>TU</set></card>
+		<card><name id="002">The Unipolar Triumvirate</name><set>TU</set></card>
+		<card><name id="018">Sunderhan, Isle of the Slave Lords</name><set>RR</set></card>
+		<card><name id="065">Council Aerie</name><set>4TH</set></card>
+		<card><name id="018">Cavern of Ancient Knowledge</name><set>NS</set></card>
+		<card><name id="044">Nosnra the Hill Giant</name><set>RR</set></card>
+		<card><name id="035">Nullification</name><set>PO</set></card>
+		<card><name id="436">The Genie Bottle</name><set>1STCH</set></card>
+		<card><name id="248">Ki-Rin</name><set>4TH</set></card>
+		<card><name id="061">Myrmidons</name><set>3RD</set></card>
+		<card><name id="050">Aurak Draconians</name><set>DL</set></card>
+		<card><name id="085">Drake</name><set>DR</set></card>
+		<card><name id="081">Undead Dragonrider</name><set>DR</set></card>
+		<card><name id="080">Ankheg</name><set>BR</set></card>
+		<card><name id="051">The White Weird</name><set>DU</set></card>
+	</superzone>
+</deck>

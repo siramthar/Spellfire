@@ -1,0 +1,62 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="456">Wand of Orcus</name><set>4TH</set></card>
+		<card><name id="019">Muragh Brilstagg</name><set>FRSP</set></card>
+		<card><name id="077">Spectre</name><set>RL</set></card>
+		<card><name id="067">Nemon Hotep</name><set>NS</set></card>
+		<card><name id="024">Harvest Moon</name><set>RL</set></card>
+		<card><name id="027">Mika&apos;s Undead Ward</name><set>TU</set></card>
+		<card><name id="020">Moonlight Madness</name><set>NS</set></card>
+		<card><name id="026">The Black Death</name><set>NS</set></card>
+		<card><name id="060">The Vampire Attacks!</name><set>RR</set></card>
+		<card><name id="145">Arms of the Great Kingdom</name><set>3RD</set></card>
+		<card><name id="012">Powers of the Land</name><set>DR</set></card>
+		<card><name id="050">Wand of Bone</name><set>NS</set></card>
+		<card><name id="082">Azalin</name><set>RL</set></card>
+		<card><name id="082">Corpse Dragon</name><set>TU</set></card>
+		<card><name id="072">Dracolich</name><set>3RD</set></card>
+		<card><name id="155">Skeletal Horde</name><set>3RD</set></card>
+		<card><name id="100">Strahd Von Zarovich</name><set>RL</set></card>
+		<card><name id="355">The Death Ship</name><set>4TH</set></card>
+		<card><name id="013">Desert of Desolation</name><set>RR</set></card>
+		<card><name id="131">The Bone March</name><set>3RD</set></card>
+		<card><name id="194">Winged Horror</name><set>3RD</set></card>
+		<card><name id="049">Hold Person</name><set>RL</set></card>
+		<card><name id="070">Fang of the Nosferatu</name><set>RL</set></card>
+		<card><name id="089">Arijani</name><set>RL</set></card>
+		<card><name id="094">Hags of Tepest</name><set>RL</set></card>
+		<card><name id="087">Harkon Lukas</name><set>RL</set></card>
+		<card><name id="088">Headless Horseman</name><set>RL</set></card>
+		<card><name id="095">Sir Edmund Bloodsworth</name><set>RL</set></card>
+		<card><name id="011">Dementlieu</name><set>RL</set></card>
+		<card><name id="140">Burneal Forest</name><set>3RD</set></card>
+		<card><name id="017">Temple of Elemental Evil</name><set>4TH</set></card>
+		<card><name id="026">Valley of the Mage</name><set>4TH</set></card>
+		<card><name id="001">Barovia</name><set>RL</set></card>
+		<card><name id="009">Invidia</name><set>RL</set></card>
+		<card><name id="015">Sri Raji</name><set>RL</set></card>
+		<card><name id="008">Vebrek</name><set>RL</set></card>
+		<card><name id="319">The Caravan</name><set>3RD</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="393">Disintegrate</name><set>3RD</set></card>
+		<card><name id="347">Improved Phantasmal Force</name><set>3RD</set></card>
+		<card><name id="055">Meteor Swarm</name><set>DR</set></card>
+		<card><name id="044">The Ship of the Sky</name><set>AR</set></card>
+		<card><name id="334">Magic Missile</name><set>3RD</set></card>
+		<card><name id="081">Fey Dwarf</name><set>TU</set></card>
+		<card><name id="038">Acererak the Eternal</name><set>RR</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="100">Good Fortune</name><set>3RD</set></card>
+		<card><name id="201">Crossbow of Accuracy</name><set>4TH</set></card>
+		<card><name id="055">Help!</name><set>AR</set></card>
+		<card><name id="218">Ponte Arco - Iris</name><set>PT</set></card>
+		<card><name id="079">Zombie Horde</name><set>NS</set></card>
+		<card><name id="071">Kargat Vampire</name><set>RL</set></card>
+		<card><name id="026">Rod of 7 Parts, Part 6</name><set>AR</set></card>
+		<card><name id="024">Rod of 7 Parts, Part 4</name><set>AR</set></card>
+	</superzone>
+</deck>

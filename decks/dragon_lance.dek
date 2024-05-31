@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="058">Enstar</name><set>4TH</set></card>
+		<card><name id="006">Solamnia</name><set>DL</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>DL</set></card>
+		<card><name id="042">Verminaard the Dragonmaster</name><set>DR</set></card>
+		<card><name id="083">Goldmoon</name><set>AR</set></card>
+		<card><name id="013">Isle of Selasia</name><set>DL</set></card>
+		<card><name id="033">Tower by the Sea</name><set>DU</set></card>
+		<card><name id="012">Spine of Taladas</name><set>DL</set></card>
+		<card><name id="057">Blood Sea of Istar</name><set>4TH</set></card>
+		<card><name id="017">Bilago Lumen</name><set>PO</set></card>
+		<card><name id="038">Flare</name><set>DR</set></card>
+		<card><name id="035">Pyrite, the Ancient Gold Dragon</name><set>DL</set></card>
+		<card><name id="041">Cyan Bloodbane</name><set>DR</set></card>
+		<card><name id="008">Palanthas</name><set>DR</set></card>
+		<card><name id="011">Unusually Good Fortune</name><set>FRSP</set></card>
+		<card><name id="337">Ansalong</name><set>4TH</set></card>
+		<card><name id="329">Jella</name><set>4TH</set></card>
+		<card><name id="330">Myalasia</name><set>4TH</set></card>
+		<card><name id="339">Moraster</name><set>4TH</set></card>
+		<card><name id="100">Good Fortune</name><set>1SP</set></card>
+		<card><name id="416">Pit Trap!</name><set>1STCH</set></card>
+		<card><name id="099">Cataclysm!</name><set>1SP</set></card>
+		<card><name id="248">Ki-Rin</name><set>4TH</set></card>
+		<card><name id="081">Divine Intervention</name><set>DL</set></card>
+		<card><name id="237">Brine Dragon</name><set>4TH</set></card>
+		<card><name id="501">Flash Flood</name><set>4TH</set></card>
+		<card><name id="023">In Search of Adventure</name><set>BR</set></card>
+		<card><name id="384">Wish</name><set>4TH</set></card>
+		<card><name id="047">Dragon&apos;s Calm</name><set>DR</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="038">Fire Dragon</name><set>DU</set></card>
+		<card><name id="056">Vorpal Blade</name><set>FR</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="072">Amulet of Spell Turning</name><set>DU</set></card>
+		<card><name id="001">Mithas</name><set>DL</set></card>
+		<card><name id="072">Daydream</name><set>DR</set></card>
+		<card><name id="025">Medallion of Faith</name><set>DLSP</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="140">Hurricane!</name><set>4TH</set></card>
+		<card><name id="028">Bag of Holding</name><set>AR</set></card>
+		<card><name id="250">Selkie</name><set>4TH</set></card>
+		<card><name id="010">The Skull of Fistandantilus</name><set>DLSP</set></card>
+		<card><name id="319">The Caravan</name><set>1SP</set></card>
+		<card><name id="201">Transformation!</name><set>1SP</set></card>
+		<card><name id="021">The Sword and Helm of Garion</name><set>TUSP</set></card>
+		<card><name id="043">Limited Wish</name><set>FR</set></card>
+		<card><name id="171">Rings of All Seeing</name><set>4TH</set></card>
+		<card><name id="087">Shining Lands</name><set>AR</set></card>
+		<card><name id="015">Reorxcrown Mountains</name><set>DL</set></card>
+		<card><name id="014">Necba the Wrathmaker</name><set>DUSP</set></card>
+		<card><name id="022">Gib Drawsemaj</name><set>NSSP</set></card>
+		<card><name id="084">Noble Djinni</name><set>1SP</set></card>
+		<card><name id="073">Psionic Disintegration</name><set>DU</set></card>
+		<card><name id="418">Aurak Draconian Lord</name><set>1STCH</set></card>
+		<card><name id="047">Hook Horror</name><set>DU</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="022">Song of the Dragonlance</name><set>DU</set></card>
+	</superzone>
+</deck>

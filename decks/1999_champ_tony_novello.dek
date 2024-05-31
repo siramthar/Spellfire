@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="124">Temple of Elemental Evil</name><set>3RD</set></card>
+		<card><name id="005">Avanil</name><set>BR</set></card>
+		<card><name id="020">Duchy of Tenh</name><set>4TH</set></card>
+		<card><name id="002">Menzoberranzan</name><set>3RD</set></card>
+		<card><name id="224">Tyr</name><set>3RD</set></card>
+		<card><name id="003">Lair of the Shadowdrake</name><set>DR</set></card>
+		<card><name id="028">Haunted Hall of Eveningstar</name><set>3RD</set></card>
+		<card><name id="054">Shining Lands</name><set>4TH</set></card>
+		<card><name id="038">The Last Sea</name><set>4TH</set></card>
+		<card><name id="034">The Forgotten Ruins</name><set>DU</set></card>
+		<card><name id="032">Ur Draxa</name><set>4TH</set></card>
+		<card><name id="092">Ancient Kalidnay</name><set>AR</set></card>
+		<card><name id="288">Spirit of the land</name><set>3RD</set></card>
+		<card><name id="119">Cataclysm!</name><set>4TH</set></card>
+		<card><name id="140">Hurricane!</name><set>4TH</set></card>
+		<card><name id="003">Caer Allison</name><set>FR</set></card>
+		<card><name id="010">Wild Magic Surge</name><set>FR</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="138">Temporal Stasis</name><set>4TH</set></card>
+		<card><name id="002">Cold Cup of Calamity</name><set>FRSP</set></card>
+		<card><name id="018">The Ultimate Rule Card</name><set>POSP</set></card>
+		<card><name id="022">Gib Drawsemaj</name><set>NSSP</set></card>
+		<card><name id="263">Vaerhirmana</name><set>3RD</set></card>
+		<card><name id="093">Ellorelloran</name><set>TU</set></card>
+		<card><name id="508">Ethereal Champion</name><set>4TH</set></card>
+		<card><name id="277">Sadira</name><set>4TH</set></card>
+		<card><name id="167">Iuz the Evil</name><set>3RD</set></card>
+		<card><name id="270">Korgunard the Avangion</name><set>4TH</set></card>
+		<card><name id="016">Gib Kcir</name><set>RRSP</set></card>
+		<card><name id="014">Necba the Wrathmaker</name><set>DUSP</set></card>
+		<card><name id="088">Headless Horseman</name><set>RL</set></card>
+		<card><name id="089">Helm</name><set>FR</set></card>
+		<card><name id="092">Cyric</name><set>FR</set></card>
+		<card><name id="422">Gatekeeper</name><set>1STCH</set></card>
+		<card><name id="058">Living Wall</name><set>PO</set></card>
+		<card><name id="006">Onad the Weasel</name><set>ARSP</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>DL</set></card>
+		<card><name id="028">Bag of Holding</name><set>AR</set></card>
+		<card><name id="011">Bag of Beans</name><set>NSSP</set></card>
+		<card><name id="020">Dragon Font</name><set>ARSP</set></card>
+		<card><name id="017">Amulet of Spell Protection</name><set>ARSP</set></card>
+		<card><name id="018">Bell of Might</name><set>FRSP</set></card>
+		<card><name id="520">The Winner&apos;s Cape</name><set>4TH</set></card>
+		<card><name id="246">The Dreaded Ghost</name><set>4TH</set></card>
+		<card><name id="210">Myrmidons</name><set>4TH</set></card>
+		<card><name id="003">Fighting Dirty!</name><set>DUSP</set></card>
+		<card><name id="384">Wish</name><set>4TH</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="004">Dissolution</name><set>DUSP</set></card>
+		<card><name id="393">Disintegrate</name><set>3RD</set></card>
+		<card><name id="437">Estate Transference</name><set>1STCH</set></card>
+		<card><name id="400">Dispel</name><set>4TH</set></card>
+		<card><name id="389">Re-target</name><set>4TH</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="024">The Azure Tower of Onad the Fallen</name><set>DU</set></card>
+	</superzone>
+</deck>

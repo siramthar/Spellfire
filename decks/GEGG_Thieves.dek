@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="008">Aliki</name><set>DUSP</set></card>
+		<card><name id="049">Gauntlets of Dexterity</name><set>NS</set></card>
+		<card><name id="140">Hurricane!</name><set>4TH</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="007">Cromlin</name><set>NS</set></card>
+		<card><name id="005">Avanil</name><set>BR</set></card>
+		<card><name id="036">Simpkin &apos;The Weasel&apos; Furzear</name><set>NS</set></card>
+		<card><name id="063">Use Poison</name><set>NS</set></card>
+		<card><name id="214">Treasure Fleet</name><set>1SP</set></card>
+		<card><name id="012">Guild Shop</name><set>NS</set></card>
+		<card><name id="005">Griff Mountains</name><set>DR</set></card>
+		<card><name id="074">A Sure Thing</name><set>NS</set></card>
+		<card><name id="001">The Vast Swamp</name><set>NS</set></card>
+		<card><name id="034">Julio, Master Thief of Haslic</name><set>NS</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="218">Johydee&apos;s Mask</name><set>3RD</set></card>
+		<card><name id="122">Furyondy</name><set>3RD</set></card>
+		<card><name id="032">Jacqueline Renier</name><set>NS</set></card>
+		<card><name id="024">Stonefist Hold</name><set>4TH</set></card>
+		<card><name id="492">Time of Troubles</name><set>4TH</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="027">Rod of 7 Parts, Part 7</name><set>AR</set></card>
+		<card><name id="031">Storm Silverhand</name><set>NS</set></card>
+		<card><name id="455">The Ring of Winter</name><set>4TH</set></card>
+		<card><name id="135">Black Bess</name><set>4TH</set></card>
+		<card><name id="023">The Fates</name><set>BRSP</set></card>
+		<card><name id="082">Con Game</name><set>DU</set></card>
+		<card><name id="084">Tumble Out of Danger</name><set>DU</set></card>
+		<card><name id="452">Codex of the Infinite Planes</name><set>4TH</set></card>
+		<card><name id="399">Ancient Curse</name><set>3RD</set></card>
+		<card><name id="040">Skulker</name><set>DU</set></card>
+		<card><name id="085">Broad Jump</name><set>DU</set></card>
+		<card><name id="028">The Guildmaster</name><set>NS</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="014">Necba the Wrathmaker</name><set>DUSP</set></card>
+		<card><name id="002">Cold Cup of Calamity</name><set>FRSP</set></card>
+		<card><name id="054">Herald of Mei Lung</name><set>NS</set></card>
+		<card><name id="003">Fighting Dirty!</name><set>DUSP</set></card>
+		<card><name id="466">Throne of the Pharaohs</name><set>4TH</set></card>
+		<card><name id="135">The Scarlet Brotherhood</name><set>3RD</set></card>
+		<card><name id="086">Hijacking</name><set>DU</set></card>
+		<card><name id="024">Elyk the Bard</name><set>DUSP</set></card>
+		<card><name id="045">Mask</name><set>NS</set></card>
+		<card><name id="039">Tasslehoff Burrfoot</name><set>DL</set></card>
+		<card><name id="117">The Horned Society</name><set>3RD</set></card>
+		<card><name id="120">Good Fortune</name><set>4TH</set></card>
+		<card><name id="028">Bag of Holding</name><set>AR</set></card>
+		<card><name id="003">Mintarn</name><set>NS</set></card>
+		<card><name id="038">Jamlin</name><set>NS</set></card>
+		<card><name id="025">Medallion of Faith</name><set>DLSP</set></card>
+		<card><name id="056">Vorpal Blade</name><set>FR</set></card>
+		<card><name id="033">Ratik Ubel</name><set>NS</set></card>
+		<card><name id="039">Donval</name><set>NS</set></card>
+		<card><name id="020">Gib Reltub</name><set>NSSP</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="006">Labyrinth of Castle Greyhawk</name><set>DU</set></card>
+	</superzone>
+</deck>

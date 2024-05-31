@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="027">Rod of 7 Parts, Part 7</name><set>AR</set></card>
+		<card><name id="018">Cavern of Ancient Knowledge</name><set>NS</set></card>
+		<card><name id="330">Myalasia</name><set>4TH</set></card>
+		<card><name id="008">UnderCerilia</name><set>NS</set></card>
+		<card><name id="202">Dagger of Venom</name><set>4TH</set></card>
+		<card><name id="053">Master Illithid</name><set>DU</set></card>
+		<card><name id="023">Drow Assassin</name><set>TUSP</set></card>
+		<card><name id="025">Kelsar Redbelt</name><set>PO</set></card>
+		<card><name id="105">Staff of Conjuring</name><set>3RD</set></card>
+		<card><name id="466">Throne of the Pharaohs</name><set>4TH</set></card>
+		<card><name id="230">Athasian Sloth</name><set>4TH</set></card>
+		<card><name id="006">The ultimate triumvirate</name><set>TUSP</set></card>
+		<card><name id="333">Minerva</name><set>4TH</set></card>
+		<card><name id="005">Sword of the High King</name><set>PO</set></card>
+		<card><name id="329">Jella</name><set>4TH</set></card>
+		<card><name id="072">Daydream</name><set>DR</set></card>
+		<card><name id="009">UnderDread</name><set>TU</set></card>
+		<card><name id="075">Drain Will</name><set>DU</set></card>
+		<card><name id="003">UnderKrynn</name><set>TU</set></card>
+		<card><name id="017">Bilago Lumen</name><set>PO</set></card>
+		<card><name id="074">Magic Draining Field</name><set>DU</set></card>
+		<card><name id="056">Blamblower</name><set>DL</set></card>
+		<card><name id="020">Seluna Darkenstar</name><set>PO</set></card>
+		<card><name id="074">Control Wind</name><set>PO</set></card>
+		<card><name id="007">UnderToril</name><set>TU</set></card>
+		<card><name id="337">Ansalong</name><set>4TH</set></card>
+		<card><name id="007">The Dispossessed</name><set>TUSP</set></card>
+		<card><name id="201">Transformation!</name><set>3RD</set></card>
+		<card><name id="023">Lyr of the Mists</name><set>PO</set></card>
+		<card><name id="034">The Forgotten Ruins</name><set>DU</set></card>
+		<card><name id="005">Barab&apos;s Goblet of Dissolution</name><set>ARSP</set></card>
+		<card><name id="500">The Master Strategist</name><set>4TH</set></card>
+		<card><name id="094">Magnify</name><set>PO</set></card>
+		<card><name id="246">The Dreaded Ghost</name><set>4TH</set></card>
+		<card><name id="070">Ultrablast</name><set>DR</set></card>
+		<card><name id="097">Create Object</name><set>PO</set></card>
+		<card><name id="010">The Skull of Fistandantilus</name><set>DLSP</set></card>
+		<card><name id="067">Complete Healing</name><set>PO</set></card>
+		<card><name id="341">Talcon</name><set>4TH</set></card>
+		<card><name id="067">Combat Mind</name><set>DR</set></card>
+		<card><name id="009">The Tantelear</name><set>POSP</set></card>
+		<card><name id="008">UnderOerth</name><set>TU</set></card>
+		<card><name id="013">Rand the Bowyer</name><set>PO</set></card>
+		<card><name id="339">Moraster</name><set>4TH</set></card>
+		<card><name id="004">Lost Treasure</name><set>RRSP</set></card>
+		<card><name id="032">Ur Draxa</name><set>4TH</set></card>
+		<card><name id="099">Time of Troubles</name><set>FR</set></card>
+		<card><name id="073">Psionic Disintegration</name><set>DU</set></card>
+		<card><name id="070">Pearl Pegasus</name><set>DU</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="338">Jarek Halvs</name><set>4TH</set></card>
+		<card><name id="084">Noble Djinni</name><set>3RD</set></card>
+		<card><name id="171">Rings of All Seeing</name><set>4TH</set></card>
+		<card><name id="001">UnderAthas</name><set>TU</set></card>
+		<card><name id="021">Highmaster Illithios</name><set>DUSP</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="011">Pit of the Mind Lord</name><set>DU</set></card>
+	</superzone>
+</deck>

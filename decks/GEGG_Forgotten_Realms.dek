@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>Spellfire</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="248">Ki-Rin</name><set>4TH</set></card>
+		<card><name id="221">Assassins</name><set>4TH</set></card>
+		<card><name id="213">Intellect Devourer</name><set>4TH</set></card>
+		<card><name id="054">Bottomless Horror</name><set>DU</set></card>
+		<card><name id="402">Creeping Doom</name><set>4TH</set></card>
+		<card><name id="034">Resurrection</name><set>FR</set></card>
+		<card><name id="492">Time of Troubles</name><set>4TH</set></card>
+		<card><name id="082">Con Game</name><set>DU</set></card>
+		<card><name id="086">Hijacking</name><set>DU</set></card>
+		<card><name id="382">Limited Wish</name><set>4TH</set></card>
+		<card><name id="021">The Sword and Helm of Garion</name><set>TUSP</set></card>
+		<card><name id="072">Amulet of Spell Turning</name><set>DU</set></card>
+		<card><name id="169">Net of Entrapment</name><set>4TH</set></card>
+		<card><name id="048">Whip of Disarming</name><set>NS</set></card>
+		<card><name id="093">Rod of Shapechange</name><set>3RD</set></card>
+		<card><name id="011">Coin of Jisan the Bountiful</name><set>AR</set></card>
+		<card><name id="455">The Ring of Winter</name><set>4TH</set></card>
+		<card><name id="054">Herald of Mei Lung</name><set>NS</set></card>
+		<card><name id="008">Ebony Cup of Fate</name><set>FRSP</set></card>
+		<card><name id="010">Wild Magic Surge</name><set>FR</set></card>
+		<card><name id="125">Transformation!</name><set>4TH</set></card>
+		<card><name id="399">Ancient Curse</name><set>3RD</set></card>
+		<card><name id="131">The Caravan</name><set>4TH</set></card>
+		<card><name id="134">Tarrasque</name><set>4TH</set></card>
+		<card><name id="400">Calm</name><set>3RD</set></card>
+		<card><name id="123">Siege!</name><set>4TH</set></card>
+		<card><name id="011">Unusually Good Fortune</name><set>FRSP</set></card>
+		<card><name id="095">Ochimo</name><set>FR</set></card>
+		<card><name id="020">Gib Reltub</name><set>NSSP</set></card>
+		<card><name id="264">Stone Giant</name><set>4TH</set></card>
+		<card><name id="046">Midnight, Goddess of Magic</name><set>3RD</set></card>
+		<card><name id="050">Marco Volo</name><set>3RD</set></card>
+		<card><name id="092">Cyric</name><set>FR</set></card>
+		<card><name id="093">Dragonbait</name><set>FR</set></card>
+		<card><name id="031">Storm Silverhand</name><set>NS</set></card>
+		<card><name id="280">Amarill</name><set>4TH</set></card>
+		<card><name id="255">Helm</name><set>4TH</set></card>
+		<card><name id="058">Living Wall</name><set>PO</set></card>
+		<card><name id="282">Adon</name><set>4TH</set></card>
+		<card><name id="083">Werewolf</name><set>FR</set></card>
+		<card><name id="045">Mask</name><set>NS</set></card>
+		<card><name id="006">Manshoon of the Zhentarim</name><set>RRSP</set></card>
+		<card><name id="030">Daryth of Calimshan</name><set>NS</set></card>
+		<card><name id="408">Living Scroll</name><set>1STCH</set></card>
+		<card><name id="017">Sword Coast</name><set>3RD</set></card>
+		<card><name id="013">Kozakura</name><set>FR</set></card>
+		<card><name id="007">Daggerdale</name><set>4TH</set></card>
+		<card><name id="010">The Coral Kingdom</name><set>4TH</set></card>
+		<card><name id="003">Mintarn</name><set>NS</set></card>
+		<card><name id="001">Menzoberranzan</name><set>4TH</set></card>
+		<card><name id="004">Nelanther</name><set>NS</set></card>
+		<card><name id="011">Raurin</name><set>4TH</set></card>
+		<card><name id="007">UnderToril</name><set>TU</set></card>
+		<card><name id="028">Haunted Hall of Eveningstar</name><set>3RD</set></card>
+		<card><name id="002">Ruins of Zhentil Keep</name><set>4TH</set></card>
+	</superzone>
+	<superzone name="Dungeon">
+		<card><name id="011">Pit of the Mind Lord</name><set>DU</set></card>
+	</superzone>
+</deck>
