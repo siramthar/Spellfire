@@ -1,11 +1,11 @@
 Spellfire	05-31-24
-plugins/Spellfire/plugininfo.txt	https://github.com/siramthar/Spellfire/blob/main/plugininfo.txt	48836
-plugins/Spellfire/formats.txt	https://github.com/siramthar/Spellfire/blob/main/formats.txt	19676
-plugins/Spellfire/bot.jpg	https://github.com/siramthar/Spellfire/blob/main/bot.jpg	46329
-plugins/Spellfire/sets/carddata.txt	https://github.com/siramthar/Spellfire/blob/main/carddata.txt	58233
-plugins/Spellfire/cardback.jpg	https://github.com/siramthar/Spellfire/blob/main/high/cardback.jpg	-13320
-plugins/Spellfire/packs/packdefinitions1.xml	https://github.com/siramthar/Spellfire/blob/main/packs/packdefinitions1.xml	177503
-plugins/Spellfire/packs/samplebooster.jpg	https://github.com/siramthar/Spellfire/blob/main/packs/samplebooster.jpg	35160
-plugins/Spellfire/version.txt	https://github.com/siramthar/Spellfire/blob/main/version.txt	22509
+plugins/Spellfire/plugininfo.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/plugininfo.txt	48836
+plugins/Spellfire/formats.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/formats.txt	19676
+plugins/Spellfire/bot.jpg	https://raw.githubusercontent.com/siramthar/Spellfire/main/bot.jpg	46329
+plugins/Spellfire/sets/carddata.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/carddata.txt	58233
+plugins/Spellfire/cardback.jpg	https://raw.githubusercontent.com/siramthar/Spellfire/main/high/cardback.jpg	-13320
+plugins/Spellfire/packs/packdefinitions1.xml	https://raw.githubusercontent.com/siramthar/Spellfire/main/packs/packdefinitions1.xml	177503
+plugins/Spellfire/packs/samplebooster.jpg	https://raw.githubusercontent.com/siramthar/Spellfire/main/packs/samplebooster.jpg	35160
+plugins/Spellfire/version.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/version.txt	22509
 CardGeneralURLs:
-https://github.com/siramthar/Spellfire/blob/main/high/
+https://raw.githubusercontent.com/siramthar/Spellfire/main/high/
