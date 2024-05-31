@@ -1,11 +1,11 @@
 Spellfire	05-31-24
-plugins/Spellfire/plugininfo.txt	http://www.lackeyccg.com/Spellfire/plugininfo.txt	48836
-plugins/Spellfire/formats.txt	http://www.lackeyccg.com/Spellfire/formats.txt	19676
-plugins/Spellfire/bot.jpg	http://www.lackeyccg.com/Spellfire/bot.jpg	46329
-plugins/Spellfire/sets/carddata.txt	http://www.lackeyccg.com/Spellfire/carddata.txt	58233
-plugins/Spellfire/cardback.jpg	http://www.lackeyccg.com/Spellfire/high/cardback.jpg	-13320
-plugins/Spellfire/packs/packdefinitions1.xml	http://www.lackeyccg.com/Spellfire/packs/packdefinitions1.xml	177503
-plugins/Spellfire/packs/samplebooster.jpg	http://www.lackeyccg.com/Spellfire/packs/samplebooster.jpg	35160
-plugins/Spellfire/version.txt	http://www.lackeyccg.com/Spellfire/version.txt	35160
+plugins/Spellfire/plugininfo.txt	https://github.com/siramthar/Spellfire/blob/main/plugininfo.txt	48836
+plugins/Spellfire/formats.txt	https://github.com/siramthar/Spellfire/blob/main/formats.txt	19676
+plugins/Spellfire/bot.jpg	https://github.com/siramthar/Spellfire/blob/main/bot.jpg	46329
+plugins/Spellfire/sets/carddata.txt	https://github.com/siramthar/Spellfire/blob/main/carddata.txt	58233
+plugins/Spellfire/cardback.jpg	https://github.com/siramthar/Spellfire/blob/main/high/cardback.jpg	-13320
+plugins/Spellfire/packs/packdefinitions1.xml	https://github.com/siramthar/Spellfire/blob/main/packs/packdefinitions1.xml	177503
+plugins/Spellfire/packs/samplebooster.jpg	https://github.com/siramthar/Spellfire/blob/main/packs/samplebooster.jpg	35160
+plugins/Spellfire/version.txt	https://github.com/siramthar/Spellfire/blob/main/version.txt	22509
 CardGeneralURLs:
-http://www.lackeyccg.com/Spellfire/high/
+https://github.com/siramthar/Spellfire/blob/main/high/
