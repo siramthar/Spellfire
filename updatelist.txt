@@ -1,16 +1,3 @@
 Spellfire	05-31-24
-plugins/Spellfire/bot.jpg	https://raw.githubusercontent.com/siramthar/Spellfire/main/bot.jpg	46329
-plugins/Spellfire/cardback.jpg	https://raw.githubusercontent.com/siramthar/Spellfire/main/cardback.jpg	-13320
-plugins/Spellfire/defaultchat.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/defaultchat.txt	6688
-plugins/Spellfire/formats.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/formats.txt	19676
 plugins/Spellfire/plugininfo.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/plugininfo.txt	48836
-plugins/Spellfire/pluginpreferences.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/pluginpreferences.txt	292980
-plugins/Spellfire/recentdecks.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/recentdecks.txt	87009
-plugins/Spellfire/setlist.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/setlist.txt	8686
-plugins/Spellfire/version.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/version.txt	22509
-plugins/Spellfire/sets/Allsets.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/sets/Allsets.txt	48242863
-plugins/Spellfire/sets/carddata.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/sets/carddata.txt	58233
-plugins/Spellfire/packs/packdefinitions1.xml	https://raw.githubusercontent.com/siramthar/Spellfire/main/packs/packdefinitions1.xml	177503
-plugins/Spellfire/packs/samplebooster.jpg	https://raw.githubusercontent.com/siramthar/Spellfire/main/packs/samplebooster.jpg	35160
-CardGeneralURLs:
-https://raw.githubusercontent.com/siramthar/Spellfire/main/sets/setimages/
+plugins/Spellfire/version.txt	https://raw.githubusercontent.com/siramthar/Spellfire/main/version.txt	27274
