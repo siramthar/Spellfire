@@ -1,6 +1,6 @@
 <version>
 <lastupdateYYMMDD>240531</lastupdateYYMMDD>
-<versionurl>http://example.yourserver.com/version.txt</versionurl>
-<updateurl>http://example.yourserver.com/updatelist.txt</updateurl>
-<message>I changed some stuff.</message>
+<versionurl>https://raw.githubusercontent.com/siramthar/Spellfire/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/siramthar/Spellfire/main/updatelist.txt</updateurl>
+<message>Added Void</message>
 </version>
